@@ -1,3 +1,3 @@
 #README
 
-# This script will download files from multiple sources: url, dryad and github
+# This script will download the mario kart data from a virtual database using a download url 
