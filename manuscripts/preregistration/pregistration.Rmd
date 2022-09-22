@@ -1,0 +1,61 @@
+---
+title           : "My preregistration for Mario Kart Project"
+shorttitle      : "Preregistration for Mario Kart Project"
+date            : "`r Sys.setlocale('LC_TIME', 'C'); format(Sys.time(), '%d\\\\. %B %Y')`"
+
+author: 
+  - name        : Emily Black 
+    affiliation : 1
+
+affiliation:
+  - id          : 1
+    institution : The University of British Columbia
+
+output: prereg::prereg_pdf
+---
+
+<!-- To keep pre-registrations to a reasonable length for readers, we recommend answers fit within a single page .pdf document, roughly 3200 characters. Read more about this here: https://aspredicted.org/messages/why_limits.php -->
+
+
+## Data collection
+<!-- Have any data been collected for this study already? (Note: "Yes" is not an accepted answer.) -->
+
+**Yes**, we already collected the data.
+
+
+
+## Hypothesis
+<!-- What's the main question being asked or hypothesis being tested in this study? -->
+
+#Each Mario Kart 8 Deluxe character has an optimum vehicle build when analyzing several of the most important kart statistics. 
+
+
+
+
+## Analyses
+<!-- Specify exactly which analyses you will conduct to examine the main question/hypothesis. -->
+
+
+
+
+## Sample size
+<!-- How many observations will be collected or what will determine sample size? No need to justify decision, but be precise about _exactly_ how the number will be determined. -->
+
+> Example: We will offer the program until 500 people have agreed to participate in it or until June 30, 2016 (whichever comes first).
+
+
+TE: If you leave this blank it will read 'Nothing else to pre-register.'
+
+## Study type
+Finally. For record keeping purposes, please tell us the type of study you are pre-registering.
+
+#Observational/data analysis 
+
+
+# References
+## 
+\vspace{-2pc}
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{-1in}
+\setlength{\parskip}{8pt}
+\noindent
