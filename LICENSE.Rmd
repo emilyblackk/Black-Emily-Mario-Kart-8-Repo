@@ -1,0 +1,12 @@
+---
+title: "LICENSE"
+author: "Emily Black"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+##Mario Kart 8 Deluxe Build Optimization © 2022 by Emily Black is licensed under CC BY-NC-SA 4.0
