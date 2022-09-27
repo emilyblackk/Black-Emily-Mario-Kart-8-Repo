@@ -1,0 +1,1 @@
+This folder contains the manuscripts associated with the project: the pre-registration file, and the project manuscript
