@@ -1,0 +1,451 @@
+"","characters","kart","build","tires","glider","speed","acceleration","weight","handling","traction","turbo","total","avg_performance_score"
+"1","Baby Mario/Luigi, Dry Bones","Tanooki Kart","Tanooki Kart,Roller,Parachute","Roller","Parachute",1.5,4.5,1.5,5,3.75,5.75,22,3.8
+"2","Baby Mario/Luigi, Dry Bones","Tanooki Kart","Tanooki Kart,Roller,Cloud Glider","Roller","Cloud Glider",1.5,4.5,1.5,5,3.75,5.75,22,3.8
+"3","Baby Mario/Luigi, Dry Bones","Tanooki Kart","Tanooki Kart,Roller,Flower Glider","Roller","Flower Glider",1.5,4.5,1.5,5,3.75,5.75,22,3.8
+"4","Baby Mario/Luigi, Dry Bones","Tanooki Kart","Tanooki Kart,Roller,Peach Parasol","Roller","Peach Parasol",1.5,4.5,1.5,5,3.75,5.75,22,3.8
+"5","Baby Mario/Luigi, Dry Bones","Tanooki Kart","Tanooki Kart,Roller,Paper Glider","Roller","Paper Glider",1.5,4.5,1.5,5,3.75,5.75,22,3.8
+"6","Baby Mario/Luigi, Dry Bones","Tanooki Kart","Tanooki Kart,Azure Roller,Parachute","Azure Roller","Parachute",1.5,4.5,1.5,5,3.75,5.75,22,3.8
+"7","Baby Mario/Luigi, Dry Bones","Tanooki Kart","Tanooki Kart,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",1.5,4.5,1.5,5,3.75,5.75,22,3.8
+"8","Baby Mario/Luigi, Dry Bones","Tanooki Kart","Tanooki Kart,Azure Roller,Flower Glider","Azure Roller","Flower Glider",1.5,4.5,1.5,5,3.75,5.75,22,3.8
+"9","Baby Mario/Luigi, Dry Bones","Tanooki Kart","Tanooki Kart,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",1.5,4.5,1.5,5,3.75,5.75,22,3.8
+"10","Baby Mario/Luigi, Dry Bones","Tanooki Kart","Tanooki Kart,Azure Roller,Paper Glider","Azure Roller","Paper Glider",1.5,4.5,1.5,5,3.75,5.75,22,3.8
+"11","Baby Mario/Luigi, Dry Bones","Koopa Clown","Koopa Clown,Roller,Parachute","Roller","Parachute",1.5,4.5,1.5,5,3.75,5.75,22,3.8
+"12","Baby Mario/Luigi, Dry Bones","Koopa Clown","Koopa Clown,Roller,Cloud Glider","Roller","Cloud Glider",1.5,4.5,1.5,5,3.75,5.75,22,3.8
+"13","Baby Mario/Luigi, Dry Bones","Koopa Clown","Koopa Clown,Roller,Flower Glider","Roller","Flower Glider",1.5,4.5,1.5,5,3.75,5.75,22,3.8
+"14","Baby Mario/Luigi, Dry Bones","Koopa Clown","Koopa Clown,Roller,Peach Parasol","Roller","Peach Parasol",1.5,4.5,1.5,5,3.75,5.75,22,3.8
+"15","Baby Mario/Luigi, Dry Bones","Koopa Clown","Koopa Clown,Roller,Paper Glider","Roller","Paper Glider",1.5,4.5,1.5,5,3.75,5.75,22,3.8
+"16","Baby Mario/Luigi, Dry Bones","Koopa Clown","Koopa Clown,Azure Roller,Parachute","Azure Roller","Parachute",1.5,4.5,1.5,5,3.75,5.75,22,3.8
+"17","Baby Mario/Luigi, Dry Bones","Koopa Clown","Koopa Clown,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",1.5,4.5,1.5,5,3.75,5.75,22,3.8
+"18","Baby Mario/Luigi, Dry Bones","Koopa Clown","Koopa Clown,Azure Roller,Flower Glider","Azure Roller","Flower Glider",1.5,4.5,1.5,5,3.75,5.75,22,3.8
+"19","Baby Mario/Luigi, Dry Bones","Koopa Clown","Koopa Clown,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",1.5,4.5,1.5,5,3.75,5.75,22,3.8
+"20","Baby Mario/Luigi, Dry Bones","Koopa Clown","Koopa Clown,Azure Roller,Paper Glider","Azure Roller","Paper Glider",1.5,4.5,1.5,5,3.75,5.75,22,3.8
+"21","Baby Mario/Luigi, Dry Bones","Streetle","Streetle,Roller,Parachute","Roller","Parachute",1.25,5.5,0.75,4.25,3.5,5.5,20.75,3.8
+"22","Baby Mario/Luigi, Dry Bones","Streetle","Streetle,Roller,Cloud Glider","Roller","Cloud Glider",1.25,5.5,0.75,4.25,3.5,5.5,20.75,3.8
+"23","Baby Mario/Luigi, Dry Bones","Streetle","Streetle,Roller,Flower Glider","Roller","Flower Glider",1.25,5.5,0.75,4.25,3.5,5.5,20.75,3.8
+"24","Baby Mario/Luigi, Dry Bones","Streetle","Streetle,Roller,Peach Parasol","Roller","Peach Parasol",1.25,5.5,0.75,4.25,3.5,5.5,20.75,3.8
+"25","Baby Mario/Luigi, Dry Bones","Streetle","Streetle,Roller,Paper Glider","Roller","Paper Glider",1.25,5.5,0.75,4.25,3.5,5.5,20.75,3.8
+"26","Baby Mario/Luigi, Dry Bones","Streetle","Streetle,Azure Roller,Parachute","Azure Roller","Parachute",1.25,5.5,0.75,4.25,3.5,5.5,20.75,3.8
+"27","Baby Mario/Luigi, Dry Bones","Streetle","Streetle,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",1.25,5.5,0.75,4.25,3.5,5.5,20.75,3.8
+"28","Baby Mario/Luigi, Dry Bones","Streetle","Streetle,Azure Roller,Flower Glider","Azure Roller","Flower Glider",1.25,5.5,0.75,4.25,3.5,5.5,20.75,3.8
+"29","Baby Mario/Luigi, Dry Bones","Streetle","Streetle,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",1.25,5.5,0.75,4.25,3.5,5.5,20.75,3.8
+"30","Baby Mario/Luigi, Dry Bones","Streetle","Streetle,Azure Roller,Paper Glider","Azure Roller","Paper Glider",1.25,5.5,0.75,4.25,3.5,5.5,20.75,3.8
+"31","Baby Peach, Baby Daisy","Tanooki Kart","Tanooki Kart,Roller,Parachute","Roller","Parachute",1.25,4.25,1.5,5.5,4,6,22.5,3.75
+"32","Baby Peach, Baby Daisy","Tanooki Kart","Tanooki Kart,Roller,Cloud Glider","Roller","Cloud Glider",1.25,4.25,1.5,5.5,4,6,22.5,3.75
+"33","Baby Peach, Baby Daisy","Tanooki Kart","Tanooki Kart,Roller,Flower Glider","Roller","Flower Glider",1.25,4.25,1.5,5.5,4,6,22.5,3.75
+"34","Baby Peach, Baby Daisy","Tanooki Kart","Tanooki Kart,Roller,Peach Parasol","Roller","Peach Parasol",1.25,4.25,1.5,5.5,4,6,22.5,3.75
+"35","Baby Peach, Baby Daisy","Tanooki Kart","Tanooki Kart,Roller,Paper Glider","Roller","Paper Glider",1.25,4.25,1.5,5.5,4,6,22.5,3.75
+"36","Baby Peach, Baby Daisy","Tanooki Kart","Tanooki Kart,Azure Roller,Parachute","Azure Roller","Parachute",1.25,4.25,1.5,5.5,4,6,22.5,3.75
+"37","Baby Peach, Baby Daisy","Tanooki Kart","Tanooki Kart,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",1.25,4.25,1.5,5.5,4,6,22.5,3.75
+"38","Baby Peach, Baby Daisy","Tanooki Kart","Tanooki Kart,Azure Roller,Flower Glider","Azure Roller","Flower Glider",1.25,4.25,1.5,5.5,4,6,22.5,3.75
+"39","Baby Peach, Baby Daisy","Tanooki Kart","Tanooki Kart,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",1.25,4.25,1.5,5.5,4,6,22.5,3.75
+"40","Baby Peach, Baby Daisy","Tanooki Kart","Tanooki Kart,Azure Roller,Paper Glider","Azure Roller","Paper Glider",1.25,4.25,1.5,5.5,4,6,22.5,3.75
+"41","Baby Peach, Baby Daisy","Koopa Clown","Koopa Clown,Roller,Parachute","Roller","Parachute",1.25,4.25,1.5,5.5,4,6,22.5,3.75
+"42","Baby Peach, Baby Daisy","Koopa Clown","Koopa Clown,Roller,Cloud Glider","Roller","Cloud Glider",1.25,4.25,1.5,5.5,4,6,22.5,3.75
+"43","Baby Peach, Baby Daisy","Koopa Clown","Koopa Clown,Roller,Flower Glider","Roller","Flower Glider",1.25,4.25,1.5,5.5,4,6,22.5,3.75
+"44","Baby Peach, Baby Daisy","Koopa Clown","Koopa Clown,Roller,Peach Parasol","Roller","Peach Parasol",1.25,4.25,1.5,5.5,4,6,22.5,3.75
+"45","Baby Peach, Baby Daisy","Koopa Clown","Koopa Clown,Roller,Paper Glider","Roller","Paper Glider",1.25,4.25,1.5,5.5,4,6,22.5,3.75
+"46","Baby Peach, Baby Daisy","Koopa Clown","Koopa Clown,Azure Roller,Parachute","Azure Roller","Parachute",1.25,4.25,1.5,5.5,4,6,22.5,3.75
+"47","Baby Peach, Baby Daisy","Koopa Clown","Koopa Clown,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",1.25,4.25,1.5,5.5,4,6,22.5,3.75
+"48","Baby Peach, Baby Daisy","Koopa Clown","Koopa Clown,Azure Roller,Flower Glider","Azure Roller","Flower Glider",1.25,4.25,1.5,5.5,4,6,22.5,3.75
+"49","Baby Peach, Baby Daisy","Koopa Clown","Koopa Clown,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",1.25,4.25,1.5,5.5,4,6,22.5,3.75
+"50","Baby Peach, Baby Daisy","Koopa Clown","Koopa Clown,Azure Roller,Paper Glider","Azure Roller","Paper Glider",1.25,4.25,1.5,5.5,4,6,22.5,3.75
+"51","Baby Peach, Baby Daisy","Streetle","Streetle,Roller,Parachute","Roller","Parachute",1,5.25,0.75,4.75,3.75,5.75,21.25,3.75
+"52","Baby Peach, Baby Daisy","Streetle","Streetle,Roller,Cloud Glider","Roller","Cloud Glider",1,5.25,0.75,4.75,3.75,5.75,21.25,3.75
+"53","Baby Peach, Baby Daisy","Streetle","Streetle,Roller,Flower Glider","Roller","Flower Glider",1,5.25,0.75,4.75,3.75,5.75,21.25,3.75
+"54","Baby Peach, Baby Daisy","Streetle","Streetle,Roller,Peach Parasol","Roller","Peach Parasol",1,5.25,0.75,4.75,3.75,5.75,21.25,3.75
+"55","Baby Peach, Baby Daisy","Streetle","Streetle,Roller,Paper Glider","Roller","Paper Glider",1,5.25,0.75,4.75,3.75,5.75,21.25,3.75
+"56","Baby Peach, Baby Daisy","Streetle","Streetle,Azure Roller,Parachute","Azure Roller","Parachute",1,5.25,0.75,4.75,3.75,5.75,21.25,3.75
+"57","Baby Peach, Baby Daisy","Streetle","Streetle,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",1,5.25,0.75,4.75,3.75,5.75,21.25,3.75
+"58","Baby Peach, Baby Daisy","Streetle","Streetle,Azure Roller,Flower Glider","Azure Roller","Flower Glider",1,5.25,0.75,4.75,3.75,5.75,21.25,3.75
+"59","Baby Peach, Baby Daisy","Streetle","Streetle,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",1,5.25,0.75,4.75,3.75,5.75,21.25,3.75
+"60","Baby Peach, Baby Daisy","Streetle","Streetle,Azure Roller,Paper Glider","Azure Roller","Paper Glider",1,5.25,0.75,4.75,3.75,5.75,21.25,3.75
+"61","Baby Rosalina, Lemmy Koopa","Tanooki Kart","Tanooki Kart,Roller,Parachute","Roller","Parachute",1.25,4.5,1.5,5.25,3.5,6,22,3.8
+"62","Baby Rosalina, Lemmy Koopa","Tanooki Kart","Tanooki Kart,Roller,Cloud Glider","Roller","Cloud Glider",1.25,4.5,1.5,5.25,3.5,6,22,3.8
+"63","Baby Rosalina, Lemmy Koopa","Tanooki Kart","Tanooki Kart,Roller,Flower Glider","Roller","Flower Glider",1.25,4.5,1.5,5.25,3.5,6,22,3.8
+"64","Baby Rosalina, Lemmy Koopa","Tanooki Kart","Tanooki Kart,Roller,Peach Parasol","Roller","Peach Parasol",1.25,4.5,1.5,5.25,3.5,6,22,3.8
+"65","Baby Rosalina, Lemmy Koopa","Tanooki Kart","Tanooki Kart,Roller,Paper Glider","Roller","Paper Glider",1.25,4.5,1.5,5.25,3.5,6,22,3.8
+"66","Baby Rosalina, Lemmy Koopa","Tanooki Kart","Tanooki Kart,Azure Roller,Parachute","Azure Roller","Parachute",1.25,4.5,1.5,5.25,3.5,6,22,3.8
+"67","Baby Rosalina, Lemmy Koopa","Tanooki Kart","Tanooki Kart,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",1.25,4.5,1.5,5.25,3.5,6,22,3.8
+"68","Baby Rosalina, Lemmy Koopa","Tanooki Kart","Tanooki Kart,Azure Roller,Flower Glider","Azure Roller","Flower Glider",1.25,4.5,1.5,5.25,3.5,6,22,3.8
+"69","Baby Rosalina, Lemmy Koopa","Tanooki Kart","Tanooki Kart,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",1.25,4.5,1.5,5.25,3.5,6,22,3.8
+"70","Baby Rosalina, Lemmy Koopa","Tanooki Kart","Tanooki Kart,Azure Roller,Paper Glider","Azure Roller","Paper Glider",1.25,4.5,1.5,5.25,3.5,6,22,3.8
+"71","Baby Rosalina, Lemmy Koopa","Koopa Clown","Koopa Clown,Roller,Parachute","Roller","Parachute",1.25,4.5,1.5,5.25,3.5,6,22,3.8
+"72","Baby Rosalina, Lemmy Koopa","Koopa Clown","Koopa Clown,Roller,Cloud Glider","Roller","Cloud Glider",1.25,4.5,1.5,5.25,3.5,6,22,3.8
+"73","Baby Rosalina, Lemmy Koopa","Koopa Clown","Koopa Clown,Roller,Flower Glider","Roller","Flower Glider",1.25,4.5,1.5,5.25,3.5,6,22,3.8
+"74","Baby Rosalina, Lemmy Koopa","Koopa Clown","Koopa Clown,Roller,Peach Parasol","Roller","Peach Parasol",1.25,4.5,1.5,5.25,3.5,6,22,3.8
+"75","Baby Rosalina, Lemmy Koopa","Koopa Clown","Koopa Clown,Roller,Paper Glider","Roller","Paper Glider",1.25,4.5,1.5,5.25,3.5,6,22,3.8
+"76","Baby Rosalina, Lemmy Koopa","Koopa Clown","Koopa Clown,Azure Roller,Parachute","Azure Roller","Parachute",1.25,4.5,1.5,5.25,3.5,6,22,3.8
+"77","Baby Rosalina, Lemmy Koopa","Koopa Clown","Koopa Clown,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",1.25,4.5,1.5,5.25,3.5,6,22,3.8
+"78","Baby Rosalina, Lemmy Koopa","Koopa Clown","Koopa Clown,Azure Roller,Flower Glider","Azure Roller","Flower Glider",1.25,4.5,1.5,5.25,3.5,6,22,3.8
+"79","Baby Rosalina, Lemmy Koopa","Koopa Clown","Koopa Clown,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",1.25,4.5,1.5,5.25,3.5,6,22,3.8
+"80","Baby Rosalina, Lemmy Koopa","Koopa Clown","Koopa Clown,Azure Roller,Paper Glider","Azure Roller","Paper Glider",1.25,4.5,1.5,5.25,3.5,6,22,3.8
+"81","Baby Rosalina, Lemmy Koopa","Streetle","Streetle,Roller,Parachute","Roller","Parachute",1,5.5,0.75,4.5,3.25,5.75,20.75,3.8
+"82","Baby Rosalina, Lemmy Koopa","Streetle","Streetle,Roller,Cloud Glider","Roller","Cloud Glider",1,5.5,0.75,4.5,3.25,5.75,20.75,3.8
+"83","Baby Rosalina, Lemmy Koopa","Streetle","Streetle,Roller,Flower Glider","Roller","Flower Glider",1,5.5,0.75,4.5,3.25,5.75,20.75,3.8
+"84","Baby Rosalina, Lemmy Koopa","Streetle","Streetle,Roller,Peach Parasol","Roller","Peach Parasol",1,5.5,0.75,4.5,3.25,5.75,20.75,3.8
+"85","Baby Rosalina, Lemmy Koopa","Streetle","Streetle,Roller,Paper Glider","Roller","Paper Glider",1,5.5,0.75,4.5,3.25,5.75,20.75,3.8
+"86","Baby Rosalina, Lemmy Koopa","Streetle","Streetle,Azure Roller,Parachute","Azure Roller","Parachute",1,5.5,0.75,4.5,3.25,5.75,20.75,3.8
+"87","Baby Rosalina, Lemmy Koopa","Streetle","Streetle,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",1,5.5,0.75,4.5,3.25,5.75,20.75,3.8
+"88","Baby Rosalina, Lemmy Koopa","Streetle","Streetle,Azure Roller,Flower Glider","Azure Roller","Flower Glider",1,5.5,0.75,4.5,3.25,5.75,20.75,3.8
+"89","Baby Rosalina, Lemmy Koopa","Streetle","Streetle,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",1,5.5,0.75,4.5,3.25,5.75,20.75,3.8
+"90","Baby Rosalina, Lemmy Koopa","Streetle","Streetle,Azure Roller,Paper Glider","Azure Roller","Paper Glider",1,5.5,0.75,4.5,3.25,5.75,20.75,3.8
+"91","Bowser, Morton","Tanooki Kart","Tanooki Kart,Roller,Parachute","Roller","Parachute",3.75,3.25,4,3,2.75,4.75,21.5,4.05
+"92","Bowser, Morton","Tanooki Kart","Tanooki Kart,Roller,Cloud Glider","Roller","Cloud Glider",3.75,3.25,4,3,2.75,4.75,21.5,4.05
+"93","Bowser, Morton","Tanooki Kart","Tanooki Kart,Roller,Flower Glider","Roller","Flower Glider",3.75,3.25,4,3,2.75,4.75,21.5,4.05
+"94","Bowser, Morton","Tanooki Kart","Tanooki Kart,Roller,Peach Parasol","Roller","Peach Parasol",3.75,3.25,4,3,2.75,4.75,21.5,4.05
+"95","Bowser, Morton","Tanooki Kart","Tanooki Kart,Roller,Paper Glider","Roller","Paper Glider",3.75,3.25,4,3,2.75,4.75,21.5,4.05
+"96","Bowser, Morton","Tanooki Kart","Tanooki Kart,Azure Roller,Parachute","Azure Roller","Parachute",3.75,3.25,4,3,2.75,4.75,21.5,4.05
+"97","Bowser, Morton","Tanooki Kart","Tanooki Kart,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",3.75,3.25,4,3,2.75,4.75,21.5,4.05
+"98","Bowser, Morton","Tanooki Kart","Tanooki Kart,Azure Roller,Flower Glider","Azure Roller","Flower Glider",3.75,3.25,4,3,2.75,4.75,21.5,4.05
+"99","Bowser, Morton","Tanooki Kart","Tanooki Kart,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",3.75,3.25,4,3,2.75,4.75,21.5,4.05
+"100","Bowser, Morton","Tanooki Kart","Tanooki Kart,Azure Roller,Paper Glider","Azure Roller","Paper Glider",3.75,3.25,4,3,2.75,4.75,21.5,4.05
+"101","Bowser, Morton","Koopa Clown","Koopa Clown,Roller,Parachute","Roller","Parachute",3.75,3.25,4,3,2.75,4.75,21.5,4.05
+"102","Bowser, Morton","Koopa Clown","Koopa Clown,Roller,Cloud Glider","Roller","Cloud Glider",3.75,3.25,4,3,2.75,4.75,21.5,4.05
+"103","Bowser, Morton","Koopa Clown","Koopa Clown,Roller,Flower Glider","Roller","Flower Glider",3.75,3.25,4,3,2.75,4.75,21.5,4.05
+"104","Bowser, Morton","Koopa Clown","Koopa Clown,Roller,Peach Parasol","Roller","Peach Parasol",3.75,3.25,4,3,2.75,4.75,21.5,4.05
+"105","Bowser, Morton","Koopa Clown","Koopa Clown,Roller,Paper Glider","Roller","Paper Glider",3.75,3.25,4,3,2.75,4.75,21.5,4.05
+"106","Bowser, Morton","Koopa Clown","Koopa Clown,Azure Roller,Parachute","Azure Roller","Parachute",3.75,3.25,4,3,2.75,4.75,21.5,4.05
+"107","Bowser, Morton","Koopa Clown","Koopa Clown,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",3.75,3.25,4,3,2.75,4.75,21.5,4.05
+"108","Bowser, Morton","Koopa Clown","Koopa Clown,Azure Roller,Flower Glider","Azure Roller","Flower Glider",3.75,3.25,4,3,2.75,4.75,21.5,4.05
+"109","Bowser, Morton","Koopa Clown","Koopa Clown,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",3.75,3.25,4,3,2.75,4.75,21.5,4.05
+"110","Bowser, Morton","Koopa Clown","Koopa Clown,Azure Roller,Paper Glider","Azure Roller","Paper Glider",3.75,3.25,4,3,2.75,4.75,21.5,4.05
+"111","Bowser, Morton","Streetle","Streetle,Roller,Parachute","Roller","Parachute",3.5,4.25,3.25,2.25,2.5,4.5,20.25,4.05
+"112","Bowser, Morton","Streetle","Streetle,Roller,Cloud Glider","Roller","Cloud Glider",3.5,4.25,3.25,2.25,2.5,4.5,20.25,4.05
+"113","Bowser, Morton","Streetle","Streetle,Roller,Flower Glider","Roller","Flower Glider",3.5,4.25,3.25,2.25,2.5,4.5,20.25,4.05
+"114","Bowser, Morton","Streetle","Streetle,Roller,Peach Parasol","Roller","Peach Parasol",3.5,4.25,3.25,2.25,2.5,4.5,20.25,4.05
+"115","Bowser, Morton","Streetle","Streetle,Roller,Paper Glider","Roller","Paper Glider",3.5,4.25,3.25,2.25,2.5,4.5,20.25,4.05
+"116","Bowser, Morton","Streetle","Streetle,Azure Roller,Parachute","Azure Roller","Parachute",3.5,4.25,3.25,2.25,2.5,4.5,20.25,4.05
+"117","Bowser, Morton","Streetle","Streetle,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",3.5,4.25,3.25,2.25,2.5,4.5,20.25,4.05
+"118","Bowser, Morton","Streetle","Streetle,Azure Roller,Flower Glider","Azure Roller","Flower Glider",3.5,4.25,3.25,2.25,2.5,4.5,20.25,4.05
+"119","Bowser, Morton","Streetle","Streetle,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",3.5,4.25,3.25,2.25,2.5,4.5,20.25,4.05
+"120","Bowser, Morton","Streetle","Streetle,Azure Roller,Paper Glider","Azure Roller","Paper Glider",3.5,4.25,3.25,2.25,2.5,4.5,20.25,4.05
+"121","Cat Peach, Inkling Girl, Villager Girl","Tanooki Kart","Tanooki Kart,Roller,Parachute","Roller","Parachute",2.25,4.25,2.25,4.5,3.5,5.5,22.25,3.95
+"122","Cat Peach, Inkling Girl, Villager Girl","Tanooki Kart","Tanooki Kart,Roller,Cloud Glider","Roller","Cloud Glider",2.25,4.25,2.25,4.5,3.5,5.5,22.25,3.95
+"123","Cat Peach, Inkling Girl, Villager Girl","Tanooki Kart","Tanooki Kart,Roller,Flower Glider","Roller","Flower Glider",2.25,4.25,2.25,4.5,3.5,5.5,22.25,3.95
+"124","Cat Peach, Inkling Girl, Villager Girl","Tanooki Kart","Tanooki Kart,Roller,Peach Parasol","Roller","Peach Parasol",2.25,4.25,2.25,4.5,3.5,5.5,22.25,3.95
+"125","Cat Peach, Inkling Girl, Villager Girl","Tanooki Kart","Tanooki Kart,Roller,Paper Glider","Roller","Paper Glider",2.25,4.25,2.25,4.5,3.5,5.5,22.25,3.95
+"126","Cat Peach, Inkling Girl, Villager Girl","Tanooki Kart","Tanooki Kart,Azure Roller,Parachute","Azure Roller","Parachute",2.25,4.25,2.25,4.5,3.5,5.5,22.25,3.95
+"127","Cat Peach, Inkling Girl, Villager Girl","Tanooki Kart","Tanooki Kart,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",2.25,4.25,2.25,4.5,3.5,5.5,22.25,3.95
+"128","Cat Peach, Inkling Girl, Villager Girl","Tanooki Kart","Tanooki Kart,Azure Roller,Flower Glider","Azure Roller","Flower Glider",2.25,4.25,2.25,4.5,3.5,5.5,22.25,3.95
+"129","Cat Peach, Inkling Girl, Villager Girl","Tanooki Kart","Tanooki Kart,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",2.25,4.25,2.25,4.5,3.5,5.5,22.25,3.95
+"130","Cat Peach, Inkling Girl, Villager Girl","Tanooki Kart","Tanooki Kart,Azure Roller,Paper Glider","Azure Roller","Paper Glider",2.25,4.25,2.25,4.5,3.5,5.5,22.25,3.95
+"131","Cat Peach, Inkling Girl, Villager Girl","Koopa Clown","Koopa Clown,Roller,Parachute","Roller","Parachute",2.25,4.25,2.25,4.5,3.5,5.5,22.25,3.95
+"132","Cat Peach, Inkling Girl, Villager Girl","Koopa Clown","Koopa Clown,Roller,Cloud Glider","Roller","Cloud Glider",2.25,4.25,2.25,4.5,3.5,5.5,22.25,3.95
+"133","Cat Peach, Inkling Girl, Villager Girl","Koopa Clown","Koopa Clown,Roller,Flower Glider","Roller","Flower Glider",2.25,4.25,2.25,4.5,3.5,5.5,22.25,3.95
+"134","Cat Peach, Inkling Girl, Villager Girl","Koopa Clown","Koopa Clown,Roller,Peach Parasol","Roller","Peach Parasol",2.25,4.25,2.25,4.5,3.5,5.5,22.25,3.95
+"135","Cat Peach, Inkling Girl, Villager Girl","Koopa Clown","Koopa Clown,Roller,Paper Glider","Roller","Paper Glider",2.25,4.25,2.25,4.5,3.5,5.5,22.25,3.95
+"136","Cat Peach, Inkling Girl, Villager Girl","Koopa Clown","Koopa Clown,Azure Roller,Parachute","Azure Roller","Parachute",2.25,4.25,2.25,4.5,3.5,5.5,22.25,3.95
+"137","Cat Peach, Inkling Girl, Villager Girl","Koopa Clown","Koopa Clown,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",2.25,4.25,2.25,4.5,3.5,5.5,22.25,3.95
+"138","Cat Peach, Inkling Girl, Villager Girl","Koopa Clown","Koopa Clown,Azure Roller,Flower Glider","Azure Roller","Flower Glider",2.25,4.25,2.25,4.5,3.5,5.5,22.25,3.95
+"139","Cat Peach, Inkling Girl, Villager Girl","Koopa Clown","Koopa Clown,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",2.25,4.25,2.25,4.5,3.5,5.5,22.25,3.95
+"140","Cat Peach, Inkling Girl, Villager Girl","Koopa Clown","Koopa Clown,Azure Roller,Paper Glider","Azure Roller","Paper Glider",2.25,4.25,2.25,4.5,3.5,5.5,22.25,3.95
+"141","Cat Peach, Inkling Girl, Villager Girl","Streetle","Streetle,Roller,Parachute","Roller","Parachute",2,5.25,1.5,3.75,3.25,5.25,21,3.95
+"142","Cat Peach, Inkling Girl, Villager Girl","Streetle","Streetle,Roller,Cloud Glider","Roller","Cloud Glider",2,5.25,1.5,3.75,3.25,5.25,21,3.95
+"143","Cat Peach, Inkling Girl, Villager Girl","Streetle","Streetle,Roller,Flower Glider","Roller","Flower Glider",2,5.25,1.5,3.75,3.25,5.25,21,3.95
+"144","Cat Peach, Inkling Girl, Villager Girl","Streetle","Streetle,Roller,Peach Parasol","Roller","Peach Parasol",2,5.25,1.5,3.75,3.25,5.25,21,3.95
+"145","Cat Peach, Inkling Girl, Villager Girl","Streetle","Streetle,Roller,Paper Glider","Roller","Paper Glider",2,5.25,1.5,3.75,3.25,5.25,21,3.95
+"146","Cat Peach, Inkling Girl, Villager Girl","Streetle","Streetle,Azure Roller,Parachute","Azure Roller","Parachute",2,5.25,1.5,3.75,3.25,5.25,21,3.95
+"147","Cat Peach, Inkling Girl, Villager Girl","Streetle","Streetle,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",2,5.25,1.5,3.75,3.25,5.25,21,3.95
+"148","Cat Peach, Inkling Girl, Villager Girl","Streetle","Streetle,Azure Roller,Flower Glider","Azure Roller","Flower Glider",2,5.25,1.5,3.75,3.25,5.25,21,3.95
+"149","Cat Peach, Inkling Girl, Villager Girl","Streetle","Streetle,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",2,5.25,1.5,3.75,3.25,5.25,21,3.95
+"150","Cat Peach, Inkling Girl, Villager Girl","Streetle","Streetle,Azure Roller,Paper Glider","Azure Roller","Paper Glider",2,5.25,1.5,3.75,3.25,5.25,21,3.95
+"151","Donkey Kong, Roy, Waluigi","Streetle","Streetle,Roller,Parachute","Roller","Parachute",3.25,4.5,2.75,2.75,2.5,4.75,20.5,4.1
+"152","Donkey Kong, Roy, Waluigi","Streetle","Streetle,Roller,Cloud Glider","Roller","Cloud Glider",3.25,4.5,2.75,2.75,2.5,4.75,20.5,4.1
+"153","Donkey Kong, Roy, Waluigi","Streetle","Streetle,Roller,Flower Glider","Roller","Flower Glider",3.25,4.5,2.75,2.75,2.5,4.75,20.5,4.1
+"154","Donkey Kong, Roy, Waluigi","Streetle","Streetle,Roller,Peach Parasol","Roller","Peach Parasol",3.25,4.5,2.75,2.75,2.5,4.75,20.5,4.1
+"155","Donkey Kong, Roy, Waluigi","Streetle","Streetle,Roller,Paper Glider","Roller","Paper Glider",3.25,4.5,2.75,2.75,2.5,4.75,20.5,4.1
+"156","Donkey Kong, Roy, Waluigi","Streetle","Streetle,Azure Roller,Parachute","Azure Roller","Parachute",3.25,4.5,2.75,2.75,2.5,4.75,20.5,4.1
+"157","Donkey Kong, Roy, Waluigi","Streetle","Streetle,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",3.25,4.5,2.75,2.75,2.5,4.75,20.5,4.1
+"158","Donkey Kong, Roy, Waluigi","Streetle","Streetle,Azure Roller,Flower Glider","Azure Roller","Flower Glider",3.25,4.5,2.75,2.75,2.5,4.75,20.5,4.1
+"159","Donkey Kong, Roy, Waluigi","Streetle","Streetle,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",3.25,4.5,2.75,2.75,2.5,4.75,20.5,4.1
+"160","Donkey Kong, Roy, Waluigi","Streetle","Streetle,Azure Roller,Paper Glider","Azure Roller","Paper Glider",3.25,4.5,2.75,2.75,2.5,4.75,20.5,4.1
+"161","Koopa Troopa, Lakitu, Bowser Jr.","Tanooki Kart","Tanooki Kart,Roller,Parachute","Roller","Parachute",1.75,4.25,2,5,4,5.75,22.75,3.85
+"162","Koopa Troopa, Lakitu, Bowser Jr.","Tanooki Kart","Tanooki Kart,Roller,Cloud Glider","Roller","Cloud Glider",1.75,4.25,2,5,4,5.75,22.75,3.85
+"163","Koopa Troopa, Lakitu, Bowser Jr.","Tanooki Kart","Tanooki Kart,Roller,Flower Glider","Roller","Flower Glider",1.75,4.25,2,5,4,5.75,22.75,3.85
+"164","Koopa Troopa, Lakitu, Bowser Jr.","Tanooki Kart","Tanooki Kart,Roller,Peach Parasol","Roller","Peach Parasol",1.75,4.25,2,5,4,5.75,22.75,3.85
+"165","Koopa Troopa, Lakitu, Bowser Jr.","Tanooki Kart","Tanooki Kart,Roller,Paper Glider","Roller","Paper Glider",1.75,4.25,2,5,4,5.75,22.75,3.85
+"166","Koopa Troopa, Lakitu, Bowser Jr.","Tanooki Kart","Tanooki Kart,Azure Roller,Parachute","Azure Roller","Parachute",1.75,4.25,2,5,4,5.75,22.75,3.85
+"167","Koopa Troopa, Lakitu, Bowser Jr.","Tanooki Kart","Tanooki Kart,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",1.75,4.25,2,5,4,5.75,22.75,3.85
+"168","Koopa Troopa, Lakitu, Bowser Jr.","Tanooki Kart","Tanooki Kart,Azure Roller,Flower Glider","Azure Roller","Flower Glider",1.75,4.25,2,5,4,5.75,22.75,3.85
+"169","Koopa Troopa, Lakitu, Bowser Jr.","Tanooki Kart","Tanooki Kart,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",1.75,4.25,2,5,4,5.75,22.75,3.85
+"170","Koopa Troopa, Lakitu, Bowser Jr.","Tanooki Kart","Tanooki Kart,Azure Roller,Paper Glider","Azure Roller","Paper Glider",1.75,4.25,2,5,4,5.75,22.75,3.85
+"171","Koopa Troopa, Lakitu, Bowser Jr.","Koopa Clown","Koopa Clown,Roller,Parachute","Roller","Parachute",1.75,4.25,2,5,4,5.75,22.75,3.85
+"172","Koopa Troopa, Lakitu, Bowser Jr.","Koopa Clown","Koopa Clown,Roller,Cloud Glider","Roller","Cloud Glider",1.75,4.25,2,5,4,5.75,22.75,3.85
+"173","Koopa Troopa, Lakitu, Bowser Jr.","Koopa Clown","Koopa Clown,Roller,Flower Glider","Roller","Flower Glider",1.75,4.25,2,5,4,5.75,22.75,3.85
+"174","Koopa Troopa, Lakitu, Bowser Jr.","Koopa Clown","Koopa Clown,Roller,Peach Parasol","Roller","Peach Parasol",1.75,4.25,2,5,4,5.75,22.75,3.85
+"175","Koopa Troopa, Lakitu, Bowser Jr.","Koopa Clown","Koopa Clown,Roller,Paper Glider","Roller","Paper Glider",1.75,4.25,2,5,4,5.75,22.75,3.85
+"176","Koopa Troopa, Lakitu, Bowser Jr.","Koopa Clown","Koopa Clown,Azure Roller,Parachute","Azure Roller","Parachute",1.75,4.25,2,5,4,5.75,22.75,3.85
+"177","Koopa Troopa, Lakitu, Bowser Jr.","Koopa Clown","Koopa Clown,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",1.75,4.25,2,5,4,5.75,22.75,3.85
+"178","Koopa Troopa, Lakitu, Bowser Jr.","Koopa Clown","Koopa Clown,Azure Roller,Flower Glider","Azure Roller","Flower Glider",1.75,4.25,2,5,4,5.75,22.75,3.85
+"179","Koopa Troopa, Lakitu, Bowser Jr.","Koopa Clown","Koopa Clown,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",1.75,4.25,2,5,4,5.75,22.75,3.85
+"180","Koopa Troopa, Lakitu, Bowser Jr.","Koopa Clown","Koopa Clown,Azure Roller,Paper Glider","Azure Roller","Paper Glider",1.75,4.25,2,5,4,5.75,22.75,3.85
+"181","Koopa Troopa, Lakitu, Bowser Jr.","Streetle","Streetle,Roller,Parachute","Roller","Parachute",1.5,5.25,1.25,4.25,3.75,5.5,21.5,3.85
+"182","Koopa Troopa, Lakitu, Bowser Jr.","Streetle","Streetle,Roller,Cloud Glider","Roller","Cloud Glider",1.5,5.25,1.25,4.25,3.75,5.5,21.5,3.85
+"183","Koopa Troopa, Lakitu, Bowser Jr.","Streetle","Streetle,Roller,Flower Glider","Roller","Flower Glider",1.5,5.25,1.25,4.25,3.75,5.5,21.5,3.85
+"184","Koopa Troopa, Lakitu, Bowser Jr.","Streetle","Streetle,Roller,Peach Parasol","Roller","Peach Parasol",1.5,5.25,1.25,4.25,3.75,5.5,21.5,3.85
+"185","Koopa Troopa, Lakitu, Bowser Jr.","Streetle","Streetle,Roller,Paper Glider","Roller","Paper Glider",1.5,5.25,1.25,4.25,3.75,5.5,21.5,3.85
+"186","Koopa Troopa, Lakitu, Bowser Jr.","Streetle","Streetle,Azure Roller,Parachute","Azure Roller","Parachute",1.5,5.25,1.25,4.25,3.75,5.5,21.5,3.85
+"187","Koopa Troopa, Lakitu, Bowser Jr.","Streetle","Streetle,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",1.5,5.25,1.25,4.25,3.75,5.5,21.5,3.85
+"188","Koopa Troopa, Lakitu, Bowser Jr.","Streetle","Streetle,Azure Roller,Flower Glider","Azure Roller","Flower Glider",1.5,5.25,1.25,4.25,3.75,5.5,21.5,3.85
+"189","Koopa Troopa, Lakitu, Bowser Jr.","Streetle","Streetle,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",1.5,5.25,1.25,4.25,3.75,5.5,21.5,3.85
+"190","Koopa Troopa, Lakitu, Bowser Jr.","Streetle","Streetle,Azure Roller,Paper Glider","Azure Roller","Paper Glider",1.5,5.25,1.25,4.25,3.75,5.5,21.5,3.85
+"191","Link, King Boo, Rosalina","Tanooki Kart","Tanooki Kart,Roller,Parachute","Roller","Parachute",3,3.5,3.25,3.75,3.5,5.25,22.25,4
+"192","Link, King Boo, Rosalina","Tanooki Kart","Tanooki Kart,Roller,Cloud Glider","Roller","Cloud Glider",3,3.5,3.25,3.75,3.5,5.25,22.25,4
+"193","Link, King Boo, Rosalina","Tanooki Kart","Tanooki Kart,Roller,Flower Glider","Roller","Flower Glider",3,3.5,3.25,3.75,3.5,5.25,22.25,4
+"194","Link, King Boo, Rosalina","Tanooki Kart","Tanooki Kart,Roller,Peach Parasol","Roller","Peach Parasol",3,3.5,3.25,3.75,3.5,5.25,22.25,4
+"195","Link, King Boo, Rosalina","Tanooki Kart","Tanooki Kart,Roller,Paper Glider","Roller","Paper Glider",3,3.5,3.25,3.75,3.5,5.25,22.25,4
+"196","Link, King Boo, Rosalina","Tanooki Kart","Tanooki Kart,Azure Roller,Parachute","Azure Roller","Parachute",3,3.5,3.25,3.75,3.5,5.25,22.25,4
+"197","Link, King Boo, Rosalina","Tanooki Kart","Tanooki Kart,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",3,3.5,3.25,3.75,3.5,5.25,22.25,4
+"198","Link, King Boo, Rosalina","Tanooki Kart","Tanooki Kart,Azure Roller,Flower Glider","Azure Roller","Flower Glider",3,3.5,3.25,3.75,3.5,5.25,22.25,4
+"199","Link, King Boo, Rosalina","Tanooki Kart","Tanooki Kart,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",3,3.5,3.25,3.75,3.5,5.25,22.25,4
+"200","Link, King Boo, Rosalina","Tanooki Kart","Tanooki Kart,Azure Roller,Paper Glider","Azure Roller","Paper Glider",3,3.5,3.25,3.75,3.5,5.25,22.25,4
+"201","Link, King Boo, Rosalina","Koopa Clown","Koopa Clown,Roller,Parachute","Roller","Parachute",3,3.5,3.25,3.75,3.5,5.25,22.25,4
+"202","Link, King Boo, Rosalina","Koopa Clown","Koopa Clown,Roller,Cloud Glider","Roller","Cloud Glider",3,3.5,3.25,3.75,3.5,5.25,22.25,4
+"203","Link, King Boo, Rosalina","Koopa Clown","Koopa Clown,Roller,Flower Glider","Roller","Flower Glider",3,3.5,3.25,3.75,3.5,5.25,22.25,4
+"204","Link, King Boo, Rosalina","Koopa Clown","Koopa Clown,Roller,Peach Parasol","Roller","Peach Parasol",3,3.5,3.25,3.75,3.5,5.25,22.25,4
+"205","Link, King Boo, Rosalina","Koopa Clown","Koopa Clown,Roller,Paper Glider","Roller","Paper Glider",3,3.5,3.25,3.75,3.5,5.25,22.25,4
+"206","Link, King Boo, Rosalina","Koopa Clown","Koopa Clown,Azure Roller,Parachute","Azure Roller","Parachute",3,3.5,3.25,3.75,3.5,5.25,22.25,4
+"207","Link, King Boo, Rosalina","Koopa Clown","Koopa Clown,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",3,3.5,3.25,3.75,3.5,5.25,22.25,4
+"208","Link, King Boo, Rosalina","Koopa Clown","Koopa Clown,Azure Roller,Flower Glider","Azure Roller","Flower Glider",3,3.5,3.25,3.75,3.5,5.25,22.25,4
+"209","Link, King Boo, Rosalina","Koopa Clown","Koopa Clown,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",3,3.5,3.25,3.75,3.5,5.25,22.25,4
+"210","Link, King Boo, Rosalina","Koopa Clown","Koopa Clown,Azure Roller,Paper Glider","Azure Roller","Paper Glider",3,3.5,3.25,3.75,3.5,5.25,22.25,4
+"211","Link, King Boo, Rosalina","Streetle","Streetle,Roller,Parachute","Roller","Parachute",2.75,4.5,2.5,3,3.25,5,21,4
+"212","Link, King Boo, Rosalina","Streetle","Streetle,Roller,Cloud Glider","Roller","Cloud Glider",2.75,4.5,2.5,3,3.25,5,21,4
+"213","Link, King Boo, Rosalina","Streetle","Streetle,Roller,Flower Glider","Roller","Flower Glider",2.75,4.5,2.5,3,3.25,5,21,4
+"214","Link, King Boo, Rosalina","Streetle","Streetle,Roller,Peach Parasol","Roller","Peach Parasol",2.75,4.5,2.5,3,3.25,5,21,4
+"215","Link, King Boo, Rosalina","Streetle","Streetle,Roller,Paper Glider","Roller","Paper Glider",2.75,4.5,2.5,3,3.25,5,21,4
+"216","Link, King Boo, Rosalina","Streetle","Streetle,Azure Roller,Parachute","Azure Roller","Parachute",2.75,4.5,2.5,3,3.25,5,21,4
+"217","Link, King Boo, Rosalina","Streetle","Streetle,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",2.75,4.5,2.5,3,3.25,5,21,4
+"218","Link, King Boo, Rosalina","Streetle","Streetle,Azure Roller,Flower Glider","Azure Roller","Flower Glider",2.75,4.5,2.5,3,3.25,5,21,4
+"219","Link, King Boo, Rosalina","Streetle","Streetle,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",2.75,4.5,2.5,3,3.25,5,21,4
+"220","Link, King Boo, Rosalina","Streetle","Streetle,Azure Roller,Paper Glider","Azure Roller","Paper Glider",2.75,4.5,2.5,3,3.25,5,21,4
+"221","Luigi, Iggy","Tanooki Kart","Tanooki Kart,Roller,Parachute","Roller","Parachute",2.75,3.75,3,4.25,3,5.25,22,3.95
+"222","Luigi, Iggy","Tanooki Kart","Tanooki Kart,Roller,Cloud Glider","Roller","Cloud Glider",2.75,3.75,3,4.25,3,5.25,22,3.95
+"223","Luigi, Iggy","Tanooki Kart","Tanooki Kart,Roller,Flower Glider","Roller","Flower Glider",2.75,3.75,3,4.25,3,5.25,22,3.95
+"224","Luigi, Iggy","Tanooki Kart","Tanooki Kart,Roller,Peach Parasol","Roller","Peach Parasol",2.75,3.75,3,4.25,3,5.25,22,3.95
+"225","Luigi, Iggy","Tanooki Kart","Tanooki Kart,Roller,Paper Glider","Roller","Paper Glider",2.75,3.75,3,4.25,3,5.25,22,3.95
+"226","Luigi, Iggy","Tanooki Kart","Tanooki Kart,Azure Roller,Parachute","Azure Roller","Parachute",2.75,3.75,3,4.25,3,5.25,22,3.95
+"227","Luigi, Iggy","Tanooki Kart","Tanooki Kart,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",2.75,3.75,3,4.25,3,5.25,22,3.95
+"228","Luigi, Iggy","Tanooki Kart","Tanooki Kart,Azure Roller,Flower Glider","Azure Roller","Flower Glider",2.75,3.75,3,4.25,3,5.25,22,3.95
+"229","Luigi, Iggy","Tanooki Kart","Tanooki Kart,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",2.75,3.75,3,4.25,3,5.25,22,3.95
+"230","Luigi, Iggy","Tanooki Kart","Tanooki Kart,Azure Roller,Paper Glider","Azure Roller","Paper Glider",2.75,3.75,3,4.25,3,5.25,22,3.95
+"231","Luigi, Iggy","Koopa Clown","Koopa Clown,Roller,Parachute","Roller","Parachute",2.75,3.75,3,4.25,3,5.25,22,3.95
+"232","Luigi, Iggy","Koopa Clown","Koopa Clown,Roller,Cloud Glider","Roller","Cloud Glider",2.75,3.75,3,4.25,3,5.25,22,3.95
+"233","Luigi, Iggy","Koopa Clown","Koopa Clown,Roller,Flower Glider","Roller","Flower Glider",2.75,3.75,3,4.25,3,5.25,22,3.95
+"234","Luigi, Iggy","Koopa Clown","Koopa Clown,Roller,Peach Parasol","Roller","Peach Parasol",2.75,3.75,3,4.25,3,5.25,22,3.95
+"235","Luigi, Iggy","Koopa Clown","Koopa Clown,Roller,Paper Glider","Roller","Paper Glider",2.75,3.75,3,4.25,3,5.25,22,3.95
+"236","Luigi, Iggy","Koopa Clown","Koopa Clown,Azure Roller,Parachute","Azure Roller","Parachute",2.75,3.75,3,4.25,3,5.25,22,3.95
+"237","Luigi, Iggy","Koopa Clown","Koopa Clown,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",2.75,3.75,3,4.25,3,5.25,22,3.95
+"238","Luigi, Iggy","Koopa Clown","Koopa Clown,Azure Roller,Flower Glider","Azure Roller","Flower Glider",2.75,3.75,3,4.25,3,5.25,22,3.95
+"239","Luigi, Iggy","Koopa Clown","Koopa Clown,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",2.75,3.75,3,4.25,3,5.25,22,3.95
+"240","Luigi, Iggy","Koopa Clown","Koopa Clown,Azure Roller,Paper Glider","Azure Roller","Paper Glider",2.75,3.75,3,4.25,3,5.25,22,3.95
+"241","Luigi, Iggy","Streetle","Streetle,Roller,Parachute","Roller","Parachute",2.5,4.75,2.25,3.5,2.75,5,20.75,3.95
+"242","Luigi, Iggy","Streetle","Streetle,Roller,Cloud Glider","Roller","Cloud Glider",2.5,4.75,2.25,3.5,2.75,5,20.75,3.95
+"243","Luigi, Iggy","Streetle","Streetle,Roller,Flower Glider","Roller","Flower Glider",2.5,4.75,2.25,3.5,2.75,5,20.75,3.95
+"244","Luigi, Iggy","Streetle","Streetle,Roller,Peach Parasol","Roller","Peach Parasol",2.5,4.75,2.25,3.5,2.75,5,20.75,3.95
+"245","Luigi, Iggy","Streetle","Streetle,Roller,Paper Glider","Roller","Paper Glider",2.5,4.75,2.25,3.5,2.75,5,20.75,3.95
+"246","Luigi, Iggy","Streetle","Streetle,Azure Roller,Parachute","Azure Roller","Parachute",2.5,4.75,2.25,3.5,2.75,5,20.75,3.95
+"247","Luigi, Iggy","Streetle","Streetle,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",2.5,4.75,2.25,3.5,2.75,5,20.75,3.95
+"248","Luigi, Iggy","Streetle","Streetle,Azure Roller,Flower Glider","Azure Roller","Flower Glider",2.5,4.75,2.25,3.5,2.75,5,20.75,3.95
+"249","Luigi, Iggy","Streetle","Streetle,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",2.5,4.75,2.25,3.5,2.75,5,20.75,3.95
+"250","Luigi, Iggy","Streetle","Streetle,Azure Roller,Paper Glider","Azure Roller","Paper Glider",2.5,4.75,2.25,3.5,2.75,5,20.75,3.95
+"251","Mario, Ludwig","Tanooki Kart","Tanooki Kart,Roller,Parachute","Roller","Parachute",2.75,3.75,3,4,3.25,5.25,22,3.95
+"252","Mario, Ludwig","Tanooki Kart","Tanooki Kart,Roller,Cloud Glider","Roller","Cloud Glider",2.75,3.75,3,4,3.25,5.25,22,3.95
+"253","Mario, Ludwig","Tanooki Kart","Tanooki Kart,Roller,Flower Glider","Roller","Flower Glider",2.75,3.75,3,4,3.25,5.25,22,3.95
+"254","Mario, Ludwig","Tanooki Kart","Tanooki Kart,Roller,Peach Parasol","Roller","Peach Parasol",2.75,3.75,3,4,3.25,5.25,22,3.95
+"255","Mario, Ludwig","Tanooki Kart","Tanooki Kart,Roller,Paper Glider","Roller","Paper Glider",2.75,3.75,3,4,3.25,5.25,22,3.95
+"256","Mario, Ludwig","Tanooki Kart","Tanooki Kart,Azure Roller,Parachute","Azure Roller","Parachute",2.75,3.75,3,4,3.25,5.25,22,3.95
+"257","Mario, Ludwig","Tanooki Kart","Tanooki Kart,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",2.75,3.75,3,4,3.25,5.25,22,3.95
+"258","Mario, Ludwig","Tanooki Kart","Tanooki Kart,Azure Roller,Flower Glider","Azure Roller","Flower Glider",2.75,3.75,3,4,3.25,5.25,22,3.95
+"259","Mario, Ludwig","Tanooki Kart","Tanooki Kart,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",2.75,3.75,3,4,3.25,5.25,22,3.95
+"260","Mario, Ludwig","Tanooki Kart","Tanooki Kart,Azure Roller,Paper Glider","Azure Roller","Paper Glider",2.75,3.75,3,4,3.25,5.25,22,3.95
+"261","Mario, Ludwig","Koopa Clown","Koopa Clown,Roller,Parachute","Roller","Parachute",2.75,3.75,3,4,3.25,5.25,22,3.95
+"262","Mario, Ludwig","Koopa Clown","Koopa Clown,Roller,Cloud Glider","Roller","Cloud Glider",2.75,3.75,3,4,3.25,5.25,22,3.95
+"263","Mario, Ludwig","Koopa Clown","Koopa Clown,Roller,Flower Glider","Roller","Flower Glider",2.75,3.75,3,4,3.25,5.25,22,3.95
+"264","Mario, Ludwig","Koopa Clown","Koopa Clown,Roller,Peach Parasol","Roller","Peach Parasol",2.75,3.75,3,4,3.25,5.25,22,3.95
+"265","Mario, Ludwig","Koopa Clown","Koopa Clown,Roller,Paper Glider","Roller","Paper Glider",2.75,3.75,3,4,3.25,5.25,22,3.95
+"266","Mario, Ludwig","Koopa Clown","Koopa Clown,Azure Roller,Parachute","Azure Roller","Parachute",2.75,3.75,3,4,3.25,5.25,22,3.95
+"267","Mario, Ludwig","Koopa Clown","Koopa Clown,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",2.75,3.75,3,4,3.25,5.25,22,3.95
+"268","Mario, Ludwig","Koopa Clown","Koopa Clown,Azure Roller,Flower Glider","Azure Roller","Flower Glider",2.75,3.75,3,4,3.25,5.25,22,3.95
+"269","Mario, Ludwig","Koopa Clown","Koopa Clown,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",2.75,3.75,3,4,3.25,5.25,22,3.95
+"270","Mario, Ludwig","Koopa Clown","Koopa Clown,Azure Roller,Paper Glider","Azure Roller","Paper Glider",2.75,3.75,3,4,3.25,5.25,22,3.95
+"271","Mario, Ludwig","Streetle","Streetle,Roller,Parachute","Roller","Parachute",2.5,4.75,2.25,3.25,3,5,20.75,3.95
+"272","Mario, Ludwig","Streetle","Streetle,Roller,Cloud Glider","Roller","Cloud Glider",2.5,4.75,2.25,3.25,3,5,20.75,3.95
+"273","Mario, Ludwig","Streetle","Streetle,Roller,Flower Glider","Roller","Flower Glider",2.5,4.75,2.25,3.25,3,5,20.75,3.95
+"274","Mario, Ludwig","Streetle","Streetle,Roller,Peach Parasol","Roller","Peach Parasol",2.5,4.75,2.25,3.25,3,5,20.75,3.95
+"275","Mario, Ludwig","Streetle","Streetle,Roller,Paper Glider","Roller","Paper Glider",2.5,4.75,2.25,3.25,3,5,20.75,3.95
+"276","Mario, Ludwig","Streetle","Streetle,Azure Roller,Parachute","Azure Roller","Parachute",2.5,4.75,2.25,3.25,3,5,20.75,3.95
+"277","Mario, Ludwig","Streetle","Streetle,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",2.5,4.75,2.25,3.25,3,5,20.75,3.95
+"278","Mario, Ludwig","Streetle","Streetle,Azure Roller,Flower Glider","Azure Roller","Flower Glider",2.5,4.75,2.25,3.25,3,5,20.75,3.95
+"279","Mario, Ludwig","Streetle","Streetle,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",2.5,4.75,2.25,3.25,3,5,20.75,3.95
+"280","Mario, Ludwig","Streetle","Streetle,Azure Roller,Paper Glider","Azure Roller","Paper Glider",2.5,4.75,2.25,3.25,3,5,20.75,3.95
+"281","Metal/Gold Mario, Pink Gold Peach","Tanooki Kart","Tanooki Kart,Roller,Parachute","Roller","Parachute",3.25,3.5,4,3.75,3,5,22.5,4
+"282","Metal/Gold Mario, Pink Gold Peach","Tanooki Kart","Tanooki Kart,Roller,Cloud Glider","Roller","Cloud Glider",3.25,3.5,4,3.75,3,5,22.5,4
+"283","Metal/Gold Mario, Pink Gold Peach","Tanooki Kart","Tanooki Kart,Roller,Flower Glider","Roller","Flower Glider",3.25,3.5,4,3.75,3,5,22.5,4
+"284","Metal/Gold Mario, Pink Gold Peach","Tanooki Kart","Tanooki Kart,Roller,Peach Parasol","Roller","Peach Parasol",3.25,3.5,4,3.75,3,5,22.5,4
+"285","Metal/Gold Mario, Pink Gold Peach","Tanooki Kart","Tanooki Kart,Roller,Paper Glider","Roller","Paper Glider",3.25,3.5,4,3.75,3,5,22.5,4
+"286","Metal/Gold Mario, Pink Gold Peach","Tanooki Kart","Tanooki Kart,Azure Roller,Parachute","Azure Roller","Parachute",3.25,3.5,4,3.75,3,5,22.5,4
+"287","Metal/Gold Mario, Pink Gold Peach","Tanooki Kart","Tanooki Kart,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",3.25,3.5,4,3.75,3,5,22.5,4
+"288","Metal/Gold Mario, Pink Gold Peach","Tanooki Kart","Tanooki Kart,Azure Roller,Flower Glider","Azure Roller","Flower Glider",3.25,3.5,4,3.75,3,5,22.5,4
+"289","Metal/Gold Mario, Pink Gold Peach","Tanooki Kart","Tanooki Kart,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",3.25,3.5,4,3.75,3,5,22.5,4
+"290","Metal/Gold Mario, Pink Gold Peach","Tanooki Kart","Tanooki Kart,Azure Roller,Paper Glider","Azure Roller","Paper Glider",3.25,3.5,4,3.75,3,5,22.5,4
+"291","Metal/Gold Mario, Pink Gold Peach","Koopa Clown","Koopa Clown,Roller,Parachute","Roller","Parachute",3.25,3.5,4,3.75,3,5,22.5,4
+"292","Metal/Gold Mario, Pink Gold Peach","Koopa Clown","Koopa Clown,Roller,Cloud Glider","Roller","Cloud Glider",3.25,3.5,4,3.75,3,5,22.5,4
+"293","Metal/Gold Mario, Pink Gold Peach","Koopa Clown","Koopa Clown,Roller,Flower Glider","Roller","Flower Glider",3.25,3.5,4,3.75,3,5,22.5,4
+"294","Metal/Gold Mario, Pink Gold Peach","Koopa Clown","Koopa Clown,Roller,Peach Parasol","Roller","Peach Parasol",3.25,3.5,4,3.75,3,5,22.5,4
+"295","Metal/Gold Mario, Pink Gold Peach","Koopa Clown","Koopa Clown,Roller,Paper Glider","Roller","Paper Glider",3.25,3.5,4,3.75,3,5,22.5,4
+"296","Metal/Gold Mario, Pink Gold Peach","Koopa Clown","Koopa Clown,Azure Roller,Parachute","Azure Roller","Parachute",3.25,3.5,4,3.75,3,5,22.5,4
+"297","Metal/Gold Mario, Pink Gold Peach","Koopa Clown","Koopa Clown,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",3.25,3.5,4,3.75,3,5,22.5,4
+"298","Metal/Gold Mario, Pink Gold Peach","Koopa Clown","Koopa Clown,Azure Roller,Flower Glider","Azure Roller","Flower Glider",3.25,3.5,4,3.75,3,5,22.5,4
+"299","Metal/Gold Mario, Pink Gold Peach","Koopa Clown","Koopa Clown,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",3.25,3.5,4,3.75,3,5,22.5,4
+"300","Metal/Gold Mario, Pink Gold Peach","Koopa Clown","Koopa Clown,Azure Roller,Paper Glider","Azure Roller","Paper Glider",3.25,3.5,4,3.75,3,5,22.5,4
+"301","Metal/Gold Mario, Pink Gold Peach","Streetle","Streetle,Roller,Parachute","Roller","Parachute",3,4.5,3.25,3,2.75,4.75,21.25,4
+"302","Metal/Gold Mario, Pink Gold Peach","Streetle","Streetle,Roller,Cloud Glider","Roller","Cloud Glider",3,4.5,3.25,3,2.75,4.75,21.25,4
+"303","Metal/Gold Mario, Pink Gold Peach","Streetle","Streetle,Roller,Flower Glider","Roller","Flower Glider",3,4.5,3.25,3,2.75,4.75,21.25,4
+"304","Metal/Gold Mario, Pink Gold Peach","Streetle","Streetle,Roller,Peach Parasol","Roller","Peach Parasol",3,4.5,3.25,3,2.75,4.75,21.25,4
+"305","Metal/Gold Mario, Pink Gold Peach","Streetle","Streetle,Roller,Paper Glider","Roller","Paper Glider",3,4.5,3.25,3,2.75,4.75,21.25,4
+"306","Metal/Gold Mario, Pink Gold Peach","Streetle","Streetle,Azure Roller,Parachute","Azure Roller","Parachute",3,4.5,3.25,3,2.75,4.75,21.25,4
+"307","Metal/Gold Mario, Pink Gold Peach","Streetle","Streetle,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",3,4.5,3.25,3,2.75,4.75,21.25,4
+"308","Metal/Gold Mario, Pink Gold Peach","Streetle","Streetle,Azure Roller,Flower Glider","Azure Roller","Flower Glider",3,4.5,3.25,3,2.75,4.75,21.25,4
+"309","Metal/Gold Mario, Pink Gold Peach","Streetle","Streetle,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",3,4.5,3.25,3,2.75,4.75,21.25,4
+"310","Metal/Gold Mario, Pink Gold Peach","Streetle","Streetle,Azure Roller,Paper Glider","Azure Roller","Paper Glider",3,4.5,3.25,3,2.75,4.75,21.25,4
+"311","Peach, Daisy, Yoshi","Tanooki Kart","Tanooki Kart,Roller,Parachute","Roller","Parachute",2.5,4,2.5,4.25,3.5,5.5,22.25,4
+"312","Peach, Daisy, Yoshi","Tanooki Kart","Tanooki Kart,Roller,Cloud Glider","Roller","Cloud Glider",2.5,4,2.5,4.25,3.5,5.5,22.25,4
+"313","Peach, Daisy, Yoshi","Tanooki Kart","Tanooki Kart,Roller,Flower Glider","Roller","Flower Glider",2.5,4,2.5,4.25,3.5,5.5,22.25,4
+"314","Peach, Daisy, Yoshi","Tanooki Kart","Tanooki Kart,Roller,Peach Parasol","Roller","Peach Parasol",2.5,4,2.5,4.25,3.5,5.5,22.25,4
+"315","Peach, Daisy, Yoshi","Tanooki Kart","Tanooki Kart,Roller,Paper Glider","Roller","Paper Glider",2.5,4,2.5,4.25,3.5,5.5,22.25,4
+"316","Peach, Daisy, Yoshi","Tanooki Kart","Tanooki Kart,Azure Roller,Parachute","Azure Roller","Parachute",2.5,4,2.5,4.25,3.5,5.5,22.25,4
+"317","Peach, Daisy, Yoshi","Tanooki Kart","Tanooki Kart,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",2.5,4,2.5,4.25,3.5,5.5,22.25,4
+"318","Peach, Daisy, Yoshi","Tanooki Kart","Tanooki Kart,Azure Roller,Flower Glider","Azure Roller","Flower Glider",2.5,4,2.5,4.25,3.5,5.5,22.25,4
+"319","Peach, Daisy, Yoshi","Tanooki Kart","Tanooki Kart,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",2.5,4,2.5,4.25,3.5,5.5,22.25,4
+"320","Peach, Daisy, Yoshi","Tanooki Kart","Tanooki Kart,Azure Roller,Paper Glider","Azure Roller","Paper Glider",2.5,4,2.5,4.25,3.5,5.5,22.25,4
+"321","Peach, Daisy, Yoshi","Koopa Clown","Koopa Clown,Roller,Parachute","Roller","Parachute",2.5,4,2.5,4.25,3.5,5.5,22.25,4
+"322","Peach, Daisy, Yoshi","Koopa Clown","Koopa Clown,Roller,Cloud Glider","Roller","Cloud Glider",2.5,4,2.5,4.25,3.5,5.5,22.25,4
+"323","Peach, Daisy, Yoshi","Koopa Clown","Koopa Clown,Roller,Flower Glider","Roller","Flower Glider",2.5,4,2.5,4.25,3.5,5.5,22.25,4
+"324","Peach, Daisy, Yoshi","Koopa Clown","Koopa Clown,Roller,Peach Parasol","Roller","Peach Parasol",2.5,4,2.5,4.25,3.5,5.5,22.25,4
+"325","Peach, Daisy, Yoshi","Koopa Clown","Koopa Clown,Roller,Paper Glider","Roller","Paper Glider",2.5,4,2.5,4.25,3.5,5.5,22.25,4
+"326","Peach, Daisy, Yoshi","Koopa Clown","Koopa Clown,Azure Roller,Parachute","Azure Roller","Parachute",2.5,4,2.5,4.25,3.5,5.5,22.25,4
+"327","Peach, Daisy, Yoshi","Koopa Clown","Koopa Clown,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",2.5,4,2.5,4.25,3.5,5.5,22.25,4
+"328","Peach, Daisy, Yoshi","Koopa Clown","Koopa Clown,Azure Roller,Flower Glider","Azure Roller","Flower Glider",2.5,4,2.5,4.25,3.5,5.5,22.25,4
+"329","Peach, Daisy, Yoshi","Koopa Clown","Koopa Clown,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",2.5,4,2.5,4.25,3.5,5.5,22.25,4
+"330","Peach, Daisy, Yoshi","Koopa Clown","Koopa Clown,Azure Roller,Paper Glider","Azure Roller","Paper Glider",2.5,4,2.5,4.25,3.5,5.5,22.25,4
+"331","Peach, Daisy, Yoshi","Streetle","Streetle,Roller,Parachute","Roller","Parachute",2.25,5,1.75,3.5,3.25,5.25,21,4
+"332","Peach, Daisy, Yoshi","Streetle","Streetle,Roller,Cloud Glider","Roller","Cloud Glider",2.25,5,1.75,3.5,3.25,5.25,21,4
+"333","Peach, Daisy, Yoshi","Streetle","Streetle,Roller,Flower Glider","Roller","Flower Glider",2.25,5,1.75,3.5,3.25,5.25,21,4
+"334","Peach, Daisy, Yoshi","Streetle","Streetle,Roller,Peach Parasol","Roller","Peach Parasol",2.25,5,1.75,3.5,3.25,5.25,21,4
+"335","Peach, Daisy, Yoshi","Streetle","Streetle,Roller,Paper Glider","Roller","Paper Glider",2.25,5,1.75,3.5,3.25,5.25,21,4
+"336","Peach, Daisy, Yoshi","Streetle","Streetle,Azure Roller,Parachute","Azure Roller","Parachute",2.25,5,1.75,3.5,3.25,5.25,21,4
+"337","Peach, Daisy, Yoshi","Streetle","Streetle,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",2.25,5,1.75,3.5,3.25,5.25,21,4
+"338","Peach, Daisy, Yoshi","Streetle","Streetle,Azure Roller,Flower Glider","Azure Roller","Flower Glider",2.25,5,1.75,3.5,3.25,5.25,21,4
+"339","Peach, Daisy, Yoshi","Streetle","Streetle,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",2.25,5,1.75,3.5,3.25,5.25,21,4
+"340","Peach, Daisy, Yoshi","Streetle","Streetle,Azure Roller,Paper Glider","Azure Roller","Paper Glider",2.25,5,1.75,3.5,3.25,5.25,21,4
+"341","Tanooki Mario, Inkling Boy, Villager Boy","Tanooki Kart","Tanooki Kart,Roller,Parachute","Roller","Parachute",2.5,4,2.75,4.25,3,5.5,22,4
+"342","Tanooki Mario, Inkling Boy, Villager Boy","Tanooki Kart","Tanooki Kart,Roller,Cloud Glider","Roller","Cloud Glider",2.5,4,2.75,4.25,3,5.5,22,4
+"343","Tanooki Mario, Inkling Boy, Villager Boy","Tanooki Kart","Tanooki Kart,Roller,Flower Glider","Roller","Flower Glider",2.5,4,2.75,4.25,3,5.5,22,4
+"344","Tanooki Mario, Inkling Boy, Villager Boy","Tanooki Kart","Tanooki Kart,Roller,Peach Parasol","Roller","Peach Parasol",2.5,4,2.75,4.25,3,5.5,22,4
+"345","Tanooki Mario, Inkling Boy, Villager Boy","Tanooki Kart","Tanooki Kart,Roller,Paper Glider","Roller","Paper Glider",2.5,4,2.75,4.25,3,5.5,22,4
+"346","Tanooki Mario, Inkling Boy, Villager Boy","Tanooki Kart","Tanooki Kart,Azure Roller,Parachute","Azure Roller","Parachute",2.5,4,2.75,4.25,3,5.5,22,4
+"347","Tanooki Mario, Inkling Boy, Villager Boy","Tanooki Kart","Tanooki Kart,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",2.5,4,2.75,4.25,3,5.5,22,4
+"348","Tanooki Mario, Inkling Boy, Villager Boy","Tanooki Kart","Tanooki Kart,Azure Roller,Flower Glider","Azure Roller","Flower Glider",2.5,4,2.75,4.25,3,5.5,22,4
+"349","Tanooki Mario, Inkling Boy, Villager Boy","Tanooki Kart","Tanooki Kart,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",2.5,4,2.75,4.25,3,5.5,22,4
+"350","Tanooki Mario, Inkling Boy, Villager Boy","Tanooki Kart","Tanooki Kart,Azure Roller,Paper Glider","Azure Roller","Paper Glider",2.5,4,2.75,4.25,3,5.5,22,4
+"351","Tanooki Mario, Inkling Boy, Villager Boy","Koopa Clown","Koopa Clown,Roller,Parachute","Roller","Parachute",2.5,4,2.75,4.25,3,5.5,22,4
+"352","Tanooki Mario, Inkling Boy, Villager Boy","Koopa Clown","Koopa Clown,Roller,Cloud Glider","Roller","Cloud Glider",2.5,4,2.75,4.25,3,5.5,22,4
+"353","Tanooki Mario, Inkling Boy, Villager Boy","Koopa Clown","Koopa Clown,Roller,Flower Glider","Roller","Flower Glider",2.5,4,2.75,4.25,3,5.5,22,4
+"354","Tanooki Mario, Inkling Boy, Villager Boy","Koopa Clown","Koopa Clown,Roller,Peach Parasol","Roller","Peach Parasol",2.5,4,2.75,4.25,3,5.5,22,4
+"355","Tanooki Mario, Inkling Boy, Villager Boy","Koopa Clown","Koopa Clown,Roller,Paper Glider","Roller","Paper Glider",2.5,4,2.75,4.25,3,5.5,22,4
+"356","Tanooki Mario, Inkling Boy, Villager Boy","Koopa Clown","Koopa Clown,Azure Roller,Parachute","Azure Roller","Parachute",2.5,4,2.75,4.25,3,5.5,22,4
+"357","Tanooki Mario, Inkling Boy, Villager Boy","Koopa Clown","Koopa Clown,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",2.5,4,2.75,4.25,3,5.5,22,4
+"358","Tanooki Mario, Inkling Boy, Villager Boy","Koopa Clown","Koopa Clown,Azure Roller,Flower Glider","Azure Roller","Flower Glider",2.5,4,2.75,4.25,3,5.5,22,4
+"359","Tanooki Mario, Inkling Boy, Villager Boy","Koopa Clown","Koopa Clown,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",2.5,4,2.75,4.25,3,5.5,22,4
+"360","Tanooki Mario, Inkling Boy, Villager Boy","Koopa Clown","Koopa Clown,Azure Roller,Paper Glider","Azure Roller","Paper Glider",2.5,4,2.75,4.25,3,5.5,22,4
+"361","Tanooki Mario, Inkling Boy, Villager Boy","Streetle","Streetle,Roller,Parachute","Roller","Parachute",2.25,5,2,3.5,2.75,5.25,20.75,4
+"362","Tanooki Mario, Inkling Boy, Villager Boy","Streetle","Streetle,Roller,Cloud Glider","Roller","Cloud Glider",2.25,5,2,3.5,2.75,5.25,20.75,4
+"363","Tanooki Mario, Inkling Boy, Villager Boy","Streetle","Streetle,Roller,Flower Glider","Roller","Flower Glider",2.25,5,2,3.5,2.75,5.25,20.75,4
+"364","Tanooki Mario, Inkling Boy, Villager Boy","Streetle","Streetle,Roller,Peach Parasol","Roller","Peach Parasol",2.25,5,2,3.5,2.75,5.25,20.75,4
+"365","Tanooki Mario, Inkling Boy, Villager Boy","Streetle","Streetle,Roller,Paper Glider","Roller","Paper Glider",2.25,5,2,3.5,2.75,5.25,20.75,4
+"366","Tanooki Mario, Inkling Boy, Villager Boy","Streetle","Streetle,Azure Roller,Parachute","Azure Roller","Parachute",2.25,5,2,3.5,2.75,5.25,20.75,4
+"367","Tanooki Mario, Inkling Boy, Villager Boy","Streetle","Streetle,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",2.25,5,2,3.5,2.75,5.25,20.75,4
+"368","Tanooki Mario, Inkling Boy, Villager Boy","Streetle","Streetle,Azure Roller,Flower Glider","Azure Roller","Flower Glider",2.25,5,2,3.5,2.75,5.25,20.75,4
+"369","Tanooki Mario, Inkling Boy, Villager Boy","Streetle","Streetle,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",2.25,5,2,3.5,2.75,5.25,20.75,4
+"370","Tanooki Mario, Inkling Boy, Villager Boy","Streetle","Streetle,Azure Roller,Paper Glider","Azure Roller","Paper Glider",2.25,5,2,3.5,2.75,5.25,20.75,4
+"371","Toad, ShyGuy, Larry","Tanooki Kart","Tanooki Kart,Roller,Parachute","Roller","Parachute",2,4.25,2.25,4.75,3.75,5.5,22.5,3.85
+"372","Toad, ShyGuy, Larry","Tanooki Kart","Tanooki Kart,Roller,Cloud Glider","Roller","Cloud Glider",2,4.25,2.25,4.75,3.75,5.5,22.5,3.85
+"373","Toad, ShyGuy, Larry","Tanooki Kart","Tanooki Kart,Roller,Flower Glider","Roller","Flower Glider",2,4.25,2.25,4.75,3.75,5.5,22.5,3.85
+"374","Toad, ShyGuy, Larry","Tanooki Kart","Tanooki Kart,Roller,Peach Parasol","Roller","Peach Parasol",2,4.25,2.25,4.75,3.75,5.5,22.5,3.85
+"375","Toad, ShyGuy, Larry","Tanooki Kart","Tanooki Kart,Roller,Paper Glider","Roller","Paper Glider",2,4.25,2.25,4.75,3.75,5.5,22.5,3.85
+"376","Toad, ShyGuy, Larry","Tanooki Kart","Tanooki Kart,Azure Roller,Parachute","Azure Roller","Parachute",2,4.25,2.25,4.75,3.75,5.5,22.5,3.85
+"377","Toad, ShyGuy, Larry","Tanooki Kart","Tanooki Kart,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",2,4.25,2.25,4.75,3.75,5.5,22.5,3.85
+"378","Toad, ShyGuy, Larry","Tanooki Kart","Tanooki Kart,Azure Roller,Flower Glider","Azure Roller","Flower Glider",2,4.25,2.25,4.75,3.75,5.5,22.5,3.85
+"379","Toad, ShyGuy, Larry","Tanooki Kart","Tanooki Kart,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",2,4.25,2.25,4.75,3.75,5.5,22.5,3.85
+"380","Toad, ShyGuy, Larry","Tanooki Kart","Tanooki Kart,Azure Roller,Paper Glider","Azure Roller","Paper Glider",2,4.25,2.25,4.75,3.75,5.5,22.5,3.85
+"381","Toad, ShyGuy, Larry","Koopa Clown","Koopa Clown,Roller,Parachute","Roller","Parachute",2,4.25,2.25,4.75,3.75,5.5,22.5,3.85
+"382","Toad, ShyGuy, Larry","Koopa Clown","Koopa Clown,Roller,Cloud Glider","Roller","Cloud Glider",2,4.25,2.25,4.75,3.75,5.5,22.5,3.85
+"383","Toad, ShyGuy, Larry","Koopa Clown","Koopa Clown,Roller,Flower Glider","Roller","Flower Glider",2,4.25,2.25,4.75,3.75,5.5,22.5,3.85
+"384","Toad, ShyGuy, Larry","Koopa Clown","Koopa Clown,Roller,Peach Parasol","Roller","Peach Parasol",2,4.25,2.25,4.75,3.75,5.5,22.5,3.85
+"385","Toad, ShyGuy, Larry","Koopa Clown","Koopa Clown,Roller,Paper Glider","Roller","Paper Glider",2,4.25,2.25,4.75,3.75,5.5,22.5,3.85
+"386","Toad, ShyGuy, Larry","Koopa Clown","Koopa Clown,Azure Roller,Parachute","Azure Roller","Parachute",2,4.25,2.25,4.75,3.75,5.5,22.5,3.85
+"387","Toad, ShyGuy, Larry","Koopa Clown","Koopa Clown,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",2,4.25,2.25,4.75,3.75,5.5,22.5,3.85
+"388","Toad, ShyGuy, Larry","Koopa Clown","Koopa Clown,Azure Roller,Flower Glider","Azure Roller","Flower Glider",2,4.25,2.25,4.75,3.75,5.5,22.5,3.85
+"389","Toad, ShyGuy, Larry","Koopa Clown","Koopa Clown,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",2,4.25,2.25,4.75,3.75,5.5,22.5,3.85
+"390","Toad, ShyGuy, Larry","Koopa Clown","Koopa Clown,Azure Roller,Paper Glider","Azure Roller","Paper Glider",2,4.25,2.25,4.75,3.75,5.5,22.5,3.85
+"391","Toadette, Wendy, Isabelle","Tanooki Kart","Tanooki Kart,Roller,Parachute","Roller","Parachute",1.75,4.5,2,4.75,3.25,5.75,22,3.9
+"392","Toadette, Wendy, Isabelle","Tanooki Kart","Tanooki Kart,Roller,Cloud Glider","Roller","Cloud Glider",1.75,4.5,2,4.75,3.25,5.75,22,3.9
+"393","Toadette, Wendy, Isabelle","Tanooki Kart","Tanooki Kart,Roller,Flower Glider","Roller","Flower Glider",1.75,4.5,2,4.75,3.25,5.75,22,3.9
+"394","Toadette, Wendy, Isabelle","Tanooki Kart","Tanooki Kart,Roller,Peach Parasol","Roller","Peach Parasol",1.75,4.5,2,4.75,3.25,5.75,22,3.9
+"395","Toadette, Wendy, Isabelle","Tanooki Kart","Tanooki Kart,Roller,Paper Glider","Roller","Paper Glider",1.75,4.5,2,4.75,3.25,5.75,22,3.9
+"396","Toadette, Wendy, Isabelle","Tanooki Kart","Tanooki Kart,Azure Roller,Parachute","Azure Roller","Parachute",1.75,4.5,2,4.75,3.25,5.75,22,3.9
+"397","Toadette, Wendy, Isabelle","Tanooki Kart","Tanooki Kart,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",1.75,4.5,2,4.75,3.25,5.75,22,3.9
+"398","Toadette, Wendy, Isabelle","Tanooki Kart","Tanooki Kart,Azure Roller,Flower Glider","Azure Roller","Flower Glider",1.75,4.5,2,4.75,3.25,5.75,22,3.9
+"399","Toadette, Wendy, Isabelle","Tanooki Kart","Tanooki Kart,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",1.75,4.5,2,4.75,3.25,5.75,22,3.9
+"400","Toadette, Wendy, Isabelle","Tanooki Kart","Tanooki Kart,Azure Roller,Paper Glider","Azure Roller","Paper Glider",1.75,4.5,2,4.75,3.25,5.75,22,3.9
+"401","Toadette, Wendy, Isabelle","Koopa Clown","Koopa Clown,Roller,Parachute","Roller","Parachute",1.75,4.5,2,4.75,3.25,5.75,22,3.9
+"402","Toadette, Wendy, Isabelle","Koopa Clown","Koopa Clown,Roller,Cloud Glider","Roller","Cloud Glider",1.75,4.5,2,4.75,3.25,5.75,22,3.9
+"403","Toadette, Wendy, Isabelle","Koopa Clown","Koopa Clown,Roller,Flower Glider","Roller","Flower Glider",1.75,4.5,2,4.75,3.25,5.75,22,3.9
+"404","Toadette, Wendy, Isabelle","Koopa Clown","Koopa Clown,Roller,Peach Parasol","Roller","Peach Parasol",1.75,4.5,2,4.75,3.25,5.75,22,3.9
+"405","Toadette, Wendy, Isabelle","Koopa Clown","Koopa Clown,Roller,Paper Glider","Roller","Paper Glider",1.75,4.5,2,4.75,3.25,5.75,22,3.9
+"406","Toadette, Wendy, Isabelle","Koopa Clown","Koopa Clown,Azure Roller,Parachute","Azure Roller","Parachute",1.75,4.5,2,4.75,3.25,5.75,22,3.9
+"407","Toadette, Wendy, Isabelle","Koopa Clown","Koopa Clown,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",1.75,4.5,2,4.75,3.25,5.75,22,3.9
+"408","Toadette, Wendy, Isabelle","Koopa Clown","Koopa Clown,Azure Roller,Flower Glider","Azure Roller","Flower Glider",1.75,4.5,2,4.75,3.25,5.75,22,3.9
+"409","Toadette, Wendy, Isabelle","Koopa Clown","Koopa Clown,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",1.75,4.5,2,4.75,3.25,5.75,22,3.9
+"410","Toadette, Wendy, Isabelle","Koopa Clown","Koopa Clown,Azure Roller,Paper Glider","Azure Roller","Paper Glider",1.75,4.5,2,4.75,3.25,5.75,22,3.9
+"411","Toadette, Wendy, Isabelle","Streetle","Streetle,Roller,Parachute","Roller","Parachute",1.5,5.5,1.25,4,3,5.5,20.75,3.9
+"412","Toadette, Wendy, Isabelle","Streetle","Streetle,Roller,Cloud Glider","Roller","Cloud Glider",1.5,5.5,1.25,4,3,5.5,20.75,3.9
+"413","Toadette, Wendy, Isabelle","Streetle","Streetle,Roller,Flower Glider","Roller","Flower Glider",1.5,5.5,1.25,4,3,5.5,20.75,3.9
+"414","Toadette, Wendy, Isabelle","Streetle","Streetle,Roller,Peach Parasol","Roller","Peach Parasol",1.5,5.5,1.25,4,3,5.5,20.75,3.9
+"415","Toadette, Wendy, Isabelle","Streetle","Streetle,Roller,Paper Glider","Roller","Paper Glider",1.5,5.5,1.25,4,3,5.5,20.75,3.9
+"416","Toadette, Wendy, Isabelle","Streetle","Streetle,Azure Roller,Parachute","Azure Roller","Parachute",1.5,5.5,1.25,4,3,5.5,20.75,3.9
+"417","Toadette, Wendy, Isabelle","Streetle","Streetle,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",1.5,5.5,1.25,4,3,5.5,20.75,3.9
+"418","Toadette, Wendy, Isabelle","Streetle","Streetle,Azure Roller,Flower Glider","Azure Roller","Flower Glider",1.5,5.5,1.25,4,3,5.5,20.75,3.9
+"419","Toadette, Wendy, Isabelle","Streetle","Streetle,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",1.5,5.5,1.25,4,3,5.5,20.75,3.9
+"420","Toadette, Wendy, Isabelle","Streetle","Streetle,Azure Roller,Paper Glider","Azure Roller","Paper Glider",1.5,5.5,1.25,4,3,5.5,20.75,3.9
+"421","Wario, Dry Bowser","Tanooki Kart","Tanooki Kart,Roller,Parachute","Roller","Parachute",3.75,3.25,3.75,3.25,3,4.75,21.75,4.05
+"422","Wario, Dry Bowser","Tanooki Kart","Tanooki Kart,Roller,Cloud Glider","Roller","Cloud Glider",3.75,3.25,3.75,3.25,3,4.75,21.75,4.05
+"423","Wario, Dry Bowser","Tanooki Kart","Tanooki Kart,Roller,Flower Glider","Roller","Flower Glider",3.75,3.25,3.75,3.25,3,4.75,21.75,4.05
+"424","Wario, Dry Bowser","Tanooki Kart","Tanooki Kart,Roller,Peach Parasol","Roller","Peach Parasol",3.75,3.25,3.75,3.25,3,4.75,21.75,4.05
+"425","Wario, Dry Bowser","Tanooki Kart","Tanooki Kart,Roller,Paper Glider","Roller","Paper Glider",3.75,3.25,3.75,3.25,3,4.75,21.75,4.05
+"426","Wario, Dry Bowser","Tanooki Kart","Tanooki Kart,Azure Roller,Parachute","Azure Roller","Parachute",3.75,3.25,3.75,3.25,3,4.75,21.75,4.05
+"427","Wario, Dry Bowser","Tanooki Kart","Tanooki Kart,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",3.75,3.25,3.75,3.25,3,4.75,21.75,4.05
+"428","Wario, Dry Bowser","Tanooki Kart","Tanooki Kart,Azure Roller,Flower Glider","Azure Roller","Flower Glider",3.75,3.25,3.75,3.25,3,4.75,21.75,4.05
+"429","Wario, Dry Bowser","Tanooki Kart","Tanooki Kart,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",3.75,3.25,3.75,3.25,3,4.75,21.75,4.05
+"430","Wario, Dry Bowser","Tanooki Kart","Tanooki Kart,Azure Roller,Paper Glider","Azure Roller","Paper Glider",3.75,3.25,3.75,3.25,3,4.75,21.75,4.05
+"431","Wario, Dry Bowser","Koopa Clown","Koopa Clown,Roller,Parachute","Roller","Parachute",3.75,3.25,3.75,3.25,3,4.75,21.75,4.05
+"432","Wario, Dry Bowser","Koopa Clown","Koopa Clown,Roller,Cloud Glider","Roller","Cloud Glider",3.75,3.25,3.75,3.25,3,4.75,21.75,4.05
+"433","Wario, Dry Bowser","Koopa Clown","Koopa Clown,Roller,Flower Glider","Roller","Flower Glider",3.75,3.25,3.75,3.25,3,4.75,21.75,4.05
+"434","Wario, Dry Bowser","Koopa Clown","Koopa Clown,Roller,Peach Parasol","Roller","Peach Parasol",3.75,3.25,3.75,3.25,3,4.75,21.75,4.05
+"435","Wario, Dry Bowser","Koopa Clown","Koopa Clown,Roller,Paper Glider","Roller","Paper Glider",3.75,3.25,3.75,3.25,3,4.75,21.75,4.05
+"436","Wario, Dry Bowser","Koopa Clown","Koopa Clown,Azure Roller,Parachute","Azure Roller","Parachute",3.75,3.25,3.75,3.25,3,4.75,21.75,4.05
+"437","Wario, Dry Bowser","Koopa Clown","Koopa Clown,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",3.75,3.25,3.75,3.25,3,4.75,21.75,4.05
+"438","Wario, Dry Bowser","Koopa Clown","Koopa Clown,Azure Roller,Flower Glider","Azure Roller","Flower Glider",3.75,3.25,3.75,3.25,3,4.75,21.75,4.05
+"439","Wario, Dry Bowser","Koopa Clown","Koopa Clown,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",3.75,3.25,3.75,3.25,3,4.75,21.75,4.05
+"440","Wario, Dry Bowser","Koopa Clown","Koopa Clown,Azure Roller,Paper Glider","Azure Roller","Paper Glider",3.75,3.25,3.75,3.25,3,4.75,21.75,4.05
+"441","Wario, Dry Bowser","Streetle","Streetle,Roller,Parachute","Roller","Parachute",3.5,4.25,3,2.5,2.75,4.5,20.5,4.05
+"442","Wario, Dry Bowser","Streetle","Streetle,Roller,Cloud Glider","Roller","Cloud Glider",3.5,4.25,3,2.5,2.75,4.5,20.5,4.05
+"443","Wario, Dry Bowser","Streetle","Streetle,Roller,Flower Glider","Roller","Flower Glider",3.5,4.25,3,2.5,2.75,4.5,20.5,4.05
+"444","Wario, Dry Bowser","Streetle","Streetle,Roller,Peach Parasol","Roller","Peach Parasol",3.5,4.25,3,2.5,2.75,4.5,20.5,4.05
+"445","Wario, Dry Bowser","Streetle","Streetle,Roller,Paper Glider","Roller","Paper Glider",3.5,4.25,3,2.5,2.75,4.5,20.5,4.05
+"446","Wario, Dry Bowser","Streetle","Streetle,Azure Roller,Parachute","Azure Roller","Parachute",3.5,4.25,3,2.5,2.75,4.5,20.5,4.05
+"447","Wario, Dry Bowser","Streetle","Streetle,Azure Roller,Cloud Glider","Azure Roller","Cloud Glider",3.5,4.25,3,2.5,2.75,4.5,20.5,4.05
+"448","Wario, Dry Bowser","Streetle","Streetle,Azure Roller,Flower Glider","Azure Roller","Flower Glider",3.5,4.25,3,2.5,2.75,4.5,20.5,4.05
+"449","Wario, Dry Bowser","Streetle","Streetle,Azure Roller,Peach Parasol","Azure Roller","Peach Parasol",3.5,4.25,3,2.5,2.75,4.5,20.5,4.05
+"450","Wario, Dry Bowser","Streetle","Streetle,Azure Roller,Paper Glider","Azure Roller","Paper Glider",3.5,4.25,3,2.5,2.75,4.5,20.5,4.05
