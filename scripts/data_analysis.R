@@ -25,7 +25,7 @@ library(groundhog)
 groundhog.library(tidyverse, "2022-09-14") #load version of tidyverse in use
                                             #when script was written
 groundhog.library(rPref, "2022-09-14")
-groundhog.library(plotly, "2022-09-14")
+groundhog.library("plotly", "2022-09-14")
 
 #_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_
 #_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_
@@ -91,6 +91,12 @@ optimal_builds <- optimal_builds %>%
 nrow(optimal_builds)/nrow(mario_kart_data) *100
 #That's less than 1% of all possible builds! 
 
+#To clean up our data, we can split the rows into each individual character 
+#so it is easier to interpret
+optimal_builds <- optimal_builds %>%
+  mutate(characters= strsplit(characters, ",")) %>%
+  unnest(., characters)
+
 
 #_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_
 #_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_#_
@@ -104,15 +110,19 @@ optimal_build_sample <- optimal_builds %>%
   group_by(characters)%>%
   slice_sample(n=3)
 
+#arrange the dataset in alphabetical order for plotting
+optimal_build_sample[order(optimal_build_sample[,'characters']), ]
+
 #Plot the sample  dataset
 mario_kart_plot <- optimal_build_sample %>%
   ggplot(aes(x=characters, y=avg_performance_score, )) + #specify vairables
-  geom_point(position=position_jitter(w = 0.2, h = 0.01),  aes(colour=characters, 
-                                  shape=build))+  #plot builds as points with labels
-  labs(x="Character", y="Performance Score (after Pareto Optimization)")+ #label axes
+  geom_point(position=position_jitter(w = 0, h = 0.005),  aes(colour=characters, 
+                                 shape=build))+  #plot builds as points with labels
+  labs(x="Character", 
+       y=" Best Performance Score (after Pareto Optimization)")+ #label axes
   ggtitle("Sample of Optimal Builds by Character for Mario Kart 8 Deluxe")+ #label plot
-  scale_shape_manual(values=c(1:25))+
-  theme_classic()+ #start with default theme
+  scale_shape_manual(values=c(1:30))+
+  theme_bw()+ #start with predefined theme in ggplot
   theme(axis.text.x = element_text(angle = 45, vjust = 0.5, hjust=1), 
         legend.position="none", 
         axis.title = element_text(size=16, face="bold"), 
