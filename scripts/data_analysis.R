@@ -34,6 +34,8 @@ groundhog.library("plotly", "2022-09-14")
 
 #Read in the data downloaded into our Github folders
 mario_kart_data <- read.csv("data/raw_data/mario_kart_character_stats.csv")
+#(Original data retrieved from https://query.data.world/s/q4bodlodyhwkim5ader5prnl67gz5d)
+
 #Get a preview of our data 
 head(mario_kart_data)
 summary(mario_kart_data)
