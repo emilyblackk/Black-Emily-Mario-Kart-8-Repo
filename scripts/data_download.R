@@ -8,7 +8,6 @@ dir.create("data/raw_data")
 dir.create("data/cleaned_data")
 dir.create("scripts/")
 
-
 dir.create("data/url")
 dir.create("data/dryad")
 dir.create("data/github")
