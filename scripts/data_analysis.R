@@ -54,8 +54,8 @@ summary(mario_kart_data)
 #statistic are not lost in another (e.g. higher speed doesn't mean 
 #comprimising on lower accel.)
 
-#However, I would rather find the overall best build, as a decrease in accel.
-#May lead to greater increases in overall speed
+#However, I would rather first find the overall best build based on speed, 
+#rather than try to balance all stats right off the bat. 
 #Thus, I will begin by filtering to builds that maximize speed-related scores,
 #and then calculating the pareto-optimal combination of speed-related scores
 
@@ -65,8 +65,9 @@ summary(mario_kart_data)
 #should be able to make up for these in good steering
 #So, the most important for winning: speed, acceleration, turbo (all speed related)
 #However, acceleration is not as important as speed and turbo
-#So, our first step will be calculating a weighted average, with acceleration being 
-#worth half as much as speed and turbo 
+#So, our first step will be calculating a score for each build 
+#based on weighted average, with acceleration being 
+#worth half as much as speed and turbo. 
 
 #First, we average the speed, acceleration, and turbo scores for each character and build
 mario_kart_data <- mario_kart_data %>%
@@ -77,7 +78,11 @@ mario_kart_summary <- mario_kart_data %>%
   group_by(characters) %>%
     filter(avg_performance_score == max(avg_performance_score))
 
-#Now, we can use the rPrep package to find our pareto-optimal frontier for all stats
+#Now that we've narrowed our builds down to the fastest, 
+#we can use pareto optimization to also make sure we have limited decreases
+#in handling and traction. 
+#I.e., there is the least amount of compromise in our kart. 
+#We can use the rPrep package to find our pareto-optimal frontier for all stats
 optimal_builds <- mario_kart_summary %>%
   group_by(characters) %>%
   psel(., high(speed)*high(acceleration)*high(turbo)*high(traction))
