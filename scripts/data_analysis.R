@@ -85,7 +85,7 @@ mario_kart_summary <- mario_kart_data %>%
 #We can use the rPrep package to find our pareto-optimal frontier for all stats
 optimal_builds <- mario_kart_summary %>%
   group_by(characters) %>%
-  psel(., high(speed)*high(acceleration)*high(turbo)*high(traction))
+  psel(., high(avg_performance_score)*high(handling)*high(traction))
 #Note: weight is co-dependent with the other statistics, so it has been removed
 
 
@@ -113,6 +113,7 @@ optimal_builds <- optimal_builds %>%
 #Let's compare the optimal builds of each character
 #Since there are a lot that are tied, I will randomly sample 3 builds from each character
 #set, and jitter in the plot
+set.seed(111) #make sure samples are the same every time
 optimal_build_sample <- optimal_builds %>%
   group_by(characters)%>%
   slice_sample(n=3)
@@ -139,7 +140,9 @@ ggplotly(mario_kart_plot, tooltip = c("x", "y", "shape")) #make plot interactive
 #save plotly plot as an interactive HTML
 p <- ggplotly(mario_kart_plot, tooltip = c("x", "y", "shape"))
 htmlwidgets::saveWidget(as_widget(p), "plots/optimal_build_plot.html")
+htmlwidgets::saveWidget(as_widget(p), "output_files/optimal_build_plot.html")
 
 
 #Export the list of optimal builds to CSV
 write.csv(optimal_builds, "data/cleaned_data/optimal_builds.csv")
+write.csv(optimal_builds, "output_files/optimal_builds.csv")
