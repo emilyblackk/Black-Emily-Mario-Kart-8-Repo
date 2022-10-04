@@ -71,7 +71,7 @@ summary(mario_kart_data)
 
 #First, we average the speed, acceleration, and turbo scores for each character and build
 mario_kart_data <- mario_kart_data %>%
-  mutate(avg_performance_score = (0.4*speed)+(0.2*acceleration) +(0.4*turbo))
+  mutate(avg_performance_score = (0.5*speed)+(0.2*acceleration) +(0.3*turbo))
 
 #Then, we can find the highest average score for each character 
 mario_kart_summary <- mario_kart_data %>%
@@ -129,7 +129,7 @@ mario_kart_plot <- optimal_build_sample %>%
   labs(x="Character", 
        y=" Best Performance Score (after Pareto Optimization)")+ #label axes
   ggtitle("Sample of Optimal Builds by Character for Mario Kart 8 Deluxe")+ #label plot
-  scale_shape_manual(values=c(1:30))+
+  scale_shape_manual(values=c(1:48))+
   theme_bw()+ #start with predefined theme in ggplot
   theme(axis.text.x = element_text(angle = 45, vjust = 0.5, hjust=1), 
         legend.position="none", 
