@@ -23,8 +23,6 @@ library(tidyverse)
 library(kableExtra)
 ```
 
-
-
 ## Title: Build Optimization for Mario Kart 8 Deluxe
 
 ### Emily Black^1^
@@ -43,7 +41,23 @@ library(kableExtra)
 
 # Methods
 
+### 1. Data Download
+
+#### I downloaded the kart and character statistics for Nintendo Mario Kart 8 Deluxe from <https://data.world> [@noauthor_mario_nodate] using R 4.2.1. The dataset contains 188160 rows, each containing a character set (characters with the same stats) and a kart build, including a glider, wheel set, and kart.
+
+### 2. Data Analysis and Cleaning
+
+#### Speed-related stats are the most important for winning races; however, we still want a balanced build. So, to begin we filtered karts to those with a high speed by calculating a weighted average for each build using 0.5 \* speed + 0.2 \* acceleration + 0.3 \* turbo.
+
+#### Then, to ensure kart builds were balanced (i.e. high speed does not mean low scores on other stats) I used Pareto Optimization to select karts in which an increase in speed leads to little to no decreases in handling and traction. After optimization, there were 612 optimal builds across all character sets (character sets were split into individual characters after comparison).
+
+### 3. Data Visualization
+
+#### The optimal builds were output as a .csv file containing individual characters, and their associated optimal builds. As well, we generated an interactive .html plot comparing the performance of a sample of optimal builds across characters.
+
 # Results
+
+#### Overall, my analysis generated \~1500 optimal builds across 40 characters. Testing of these builds (i.e. playing Mario Kart) showed a strong performance of optimal builds, and study participants noted a good balance of competitive speeds and ease of handling.
 
 # References
 
@@ -52,8 +66,14 @@ library(kableExtra)
 
 # Tables
 
+#### Please see the output_files folder for the complete table of Mario Kart 8 Deluxe optimal builds.
+
 # Figure Captions
 
+#### Figure 1. Interactive plot showing a sample of optimal builds for each character, and comparing the weighted average of their speed-related stats (0.5 \* speed + 0.2 \* acceleration + 0.3 \* turbo). Each point shows the character, weighted average statistic, and the build (kart, wheels, glider).
+
 # Figures
+
+#### Please see the output_files folder for the interactive .html plot. Note that Github will not generate the plot, and it must be downloaded to see the interactive elements.
 
 # Apendices
