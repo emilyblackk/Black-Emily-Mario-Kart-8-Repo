@@ -1,1 +1,3 @@
-This folder contains the manuscripts associated with the project: the pre-registration file, and the project manuscript
+This folder contains the manuscripts associated with the project: the pre-registration file, and the project manuscript. 
+
+PLEASE NOTE: Updates were made on the manuscript .Rmd and .pdf after the assignment deadline (Sept 28th). I was confused by project guidelines for the manuscript rendering and completion, so I added elements today (Oct 3). Please reach out to me at emily@zoology.ubc.ca if you have questions or concerns. 
