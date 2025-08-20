@@ -1,4 +1,4 @@
-## Mario-Kart-8-Repo
+# Mario-Kart-8-Repo
 
 Welcome to the Mario Kart Optimization Repository!
 
